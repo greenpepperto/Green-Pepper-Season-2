@@ -5,9 +5,14 @@
 **Teams:** 24  
 **Format:** 4 VRS Direct Qualifiers + 5 × 4 GSL Groups + Play-In + 16-Team Double-Elimination Playoffs  
 **Match formats:** Group Stage BO3 · Play-In BO3 · Playoffs BO3 · Grand Final BO5  
-**Platform, dates, registration terms, prize pool and VRS snapshot:** To be announced.
+**Platform:** FACEIT  
+**Entry Fee:** €250 per team  
+**Prize Pool:** €5,000  
+**VRS Snapshot:** 2 November 2026  
+**Map Pool:** de_ancient · de_anubis · de_dust2 · de_inferno · de_mirage · de_nuke  
+**Dates and registration window:** To be announced.
 
-This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Season 1 dates, fees, prize amounts, platform settings and ranking snapshot dates do not automatically apply to Season 2.
+This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Green Pepper Season 2 retains the Season 1 entry fee, prize pool, FACEIT competition platform, VRS snapshot date and map pool. Season 2 dates and registration window will be announced separately.
 
 ---
 
@@ -39,6 +44,10 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.1.4. The tournament will feature 24 accepted teams, subject to the registration and eligibility process published by Green Pepper.
 
+1.1.5. The official competition platform is **FACEIT**. All official matches, match rooms, results and standings will use the Green Pepper Season 2 FACEIT tournament infrastructure.
+
+1.1.6. The official VRS ranking reference for Season 2 is the **2 November 2026 European VRS snapshot**. This snapshot is used for direct Playoff qualification, VRS roster matching and any other ranking procedure expressly stated in this Rulebook. VRS status and alignment remain subject to applicable Valve requirements and confirmation.
+
 ### 1.2 Registration
 
 1.2.1. Teams must register through the official Green Pepper registration process.
@@ -51,17 +60,21 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.2.5. False, incomplete or misleading registration information may result in rejection, loss of a place, a match forfeit or disqualification.
 
-1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. Registration deadlines, payment requirements, acceptance criteria and Waiting List procedures will be announced separately.
+1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. Registration deadlines, payment confirmation and Waiting List procedures will be announced separately.
 
 1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team. A place is not guaranteed until the replacement has been formally confirmed. Any ranking priority or order of replacement will be published by the Organizer and applied consistently.
 
 ### 1.3 Entry Fees and Refunds
 
-1.3.1. Any entry fee, payment method and payment deadline will be stated in the official Season 2 registration information. No Season 1 fee or payment condition automatically applies to Season 2.
+1.3.1. The entry fee is **€250 per team**. Payment instructions and deadlines will be communicated through the official Green Pepper channels.
 
-1.3.2. The Season 2 refund policy will be published before registration payments are accepted. Teams are responsible for reviewing that policy before paying.
+1.3.2. Registration is complete only after all required details have been submitted and the team's payment has been confirmed.
 
-1.3.3. If a team voluntarily withdraws, its entitlement to a refund is determined by the published Season 2 refund policy. No refund should be assumed unless the policy or applicable law provides for it.
+1.3.3. Once a team's registration payment has been confirmed, the entry fee is **non-refundable if the team chooses to withdraw**, regardless of the reason for withdrawal.
+
+1.3.4. Registration fees will be refunded in full to all teams if Green Pepper Season 2 is cancelled by the Organizer, does not reach the required **24 accepted teams**, or does not obtain the intended **VRS status/alignment** required to proceed as advertised. Any one of these conditions is sufficient to trigger the full refund guarantee.
+
+1.3.5. No other circumstances, including a team's voluntary withdrawal or inability to participate, entitle that team to a refund, subject to applicable law.
 
 ---
 
@@ -258,7 +271,7 @@ Green Pepper Season 2 features 24 teams:
 
 ### 5.1 Platform Requirements
 
-5.1.1. All official matches must be played through the competitive platform and tournament infrastructure designated by Green Pepper and announced before the event.
+5.1.1. All official matches must be played through the **FACEIT** platform and the official Green Pepper Season 2 tournament infrastructure.
 
 5.1.2. Every player must use their own eligible account and join the correct match room with the registered account.
 
@@ -272,7 +285,7 @@ Green Pepper Season 2 features 24 teams:
 
 5.2.1. Players must use the anti-cheat software required by the designated competitive platform and any additional requirements announced by Green Pepper.
 
-5.2.2. Where FACEIT is used, FACEIT Anti-Cheat is mandatory for every player whenever required by FACEIT and tournament administration.
+5.2.2. **FACEIT Anti-Cheat is mandatory for every player** in all official matches. Players must have it running and operational whenever required by FACEIT or tournament administration.
 
 5.2.3. A match may not begin if a player fails to meet the applicable anti-cheat requirement. Administration may issue a forfeit if the issue is not resolved within the allowed start window.
 
@@ -294,13 +307,22 @@ Green Pepper Season 2 features 24 teams:
 
 ### 5.4 Map Pool and Veto
 
-5.4.1. The active Counter-Strike 2 competitive map pool for Season 2 will be announced by Green Pepper before the tournament.
+5.4.1. The official map pool for Green Pepper Season 2 is the same six-map pool used for Season 1:
 
-5.4.2. Map vetoes must be completed through the official match room or by the method specified by administration.
+- `de_ancient`
+- `de_anubis`
+- `de_dust2`
+- `de_inferno`
+- `de_mirage`
+- `de_nuke`
 
-5.4.3. Unless a different process is announced, the higher-seeded team chooses whether to be Team A or Team B.
+5.4.2. If Valve or Counter-Strike 2 updates the competitive map pool after the tournament has started, Green Pepper's published six-map pool will remain unchanged for the duration of the event, unless an exceptional change is required and formally announced.
 
-5.4.4. **BO3 veto procedure:**
+5.4.3. Map vetoes must be completed through the official FACEIT match room or by the method specified by administration.
+
+5.4.4. Unless a different process is announced, the higher-seeded team chooses whether to be Team A or Team B.
+
+5.4.5. **BO3 veto procedure:**
 1. The higher-seeded team chooses Team A or Team B.
 2. Team A removes one map.
 3. Team B removes one map.
@@ -310,7 +332,7 @@ Green Pepper Season 2 features 24 teams:
 7. Team B removes one map.
 8. The remaining map is the decider. A knife round or the server's designated side-selection method determines starting sides.
 
-5.4.5. **BO5 veto procedure:**
+5.4.6. **BO5 veto procedure:**
 1. The higher-seeded team chooses Team A or Team B.
 2. Team A removes one map.
 3. Team B removes one map.
@@ -320,11 +342,11 @@ Green Pepper Season 2 features 24 teams:
 7. Team B picks Map 4; Team A chooses the starting side.
 8. The remaining map is the decider. A knife round or the server's designated side-selection method determines starting sides.
 
-5.4.6. Map picks and bans are final once confirmed, except where an administrative or platform error requires correction.
+5.4.7. Map picks and bans are final once confirmed, except where an administrative or platform error requires correction.
 
-5.4.7. If a team does not complete its veto within the stated deadline, administration may complete the remaining steps on its behalf.
+5.4.8. If a team does not complete its veto within the stated deadline, administration may complete the remaining steps on its behalf.
 
-5.4.8. If the active map pool changes after the tournament begins, the Organizer will announce whether the event's published map pool remains in effect or whether a change is required.
+5.4.9. The six-map pool listed in Section 5.4.1 remains in effect for the event, subject only to an exceptional change formally announced by Green Pepper.
 
 ### 5.5 Servers and Region
 
@@ -600,7 +622,7 @@ Cheating, account sharing, stream sniping, match manipulation, harassment and ot
 
 ## 10. Prizes
 
-10.1. The Season 2 prize pool and prize distribution will be published through official Green Pepper channels before the tournament.
+10.1. The total advertised prize pool for Green Pepper Season 2 is **€5,000**. The prize distribution will be published through official Green Pepper channels before the tournament concludes.
 
 10.2. The prize pool is subject to the eligibility and disqualification provisions in this Rulebook.
 
