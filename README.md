@@ -77,11 +77,14 @@ Further event details will be announced.
 | Edition | Season 2 |
 | Region | Europe |
 | Teams | 24 |
+| Entry Fee | €250 per team |
+| Prize Pool | €5,000 |
+| Tournament platform | FACEIT |
+| FACEIT Anti-Cheat | Mandatory for all players |
+| European VRS snapshot | 2 November 2026 |
+| Map Pool | Ancient, Anubis, Dust2, Inferno, Mirage, Nuke |
 | Dates | To be announced |
 | Registration | To be announced |
-| Prize Pool | To be announced |
-| Tournament platform | To be announced |
-| European VRS snapshot | To be announced |
 
 ## Official Documents
 
@@ -89,7 +92,7 @@ Further event details will be announced.
 
 ## Updates
 
-The tournament schedule, registration process, eligibility requirements, prize pool and operational information will be published closer to the event.
+The tournament schedule, registration process, eligibility requirements and operational information will be published closer to the event. The €250 entry fee, €5,000 prize pool, FACEIT platform, 2 November 2026 European VRS snapshot and six-map pool are retained from Season 1.
 
 Follow our official channels to stay up to date:
 
