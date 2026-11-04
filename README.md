@@ -9,11 +9,11 @@ Our goal is to create a competitive and accessible environment for teams across 
 
 ## Tournament Format
 
-Green Pepper Season 2 will feature **24 teams** and three competitive stages before crowning the champion.
+Green Pepper Season 2 will feature **24 teams**.
 
 | Stage | Teams | Format |
 |---|---:|---|
-| VRS Direct Qualification | 4 | Direct to Playoffs |
+| VRS Direct Qualification | 4 | Direct to Playoffs · Seeds 1–4 |
 | Group Stage | 20 | 5 Groups of 4 · GSL · BO3 |
 | Play-In | 4 | Single Elimination · BO3 |
 | Playoffs | 16 | Double Elimination · BO3 |
@@ -30,13 +30,42 @@ The remaining 20 teams are divided into five groups of four. Each group follows 
 - The four highest-ranked third-place teams advance to the Play-In.
 - 4th place in each group is eliminated.
 
+### Third-Place Tiebreak
+The five third-place teams are ranked using the following criteria, in order:
+
+1. European VRS ranking in the official event snapshot.
+2. Group Stage series record.
+3. Map differential.
+4. Map win percentage.
+5. Round differential.
+6. Round win percentage.
+7. Original Group Stage draw seed.
+8. Organizer-administered random draw.
+
+Teams without an official VRS ranking are treated as unranked for the first criterion.
+
 ### Play-In
 The four eligible third-place teams compete in two BO3 Single-Elimination matches. The two winners qualify for the Playoffs.
 
 ### Playoffs
 The 16-team Playoffs use a Double-Elimination bracket. All Upper Bracket and Lower Bracket matches are BO3. The Grand Final is BO5.
 
-The five third-place teams are ranked primarily by their position in the official European VRS snapshot announced for the event, followed by Group Stage results and statistical criteria. The complete tiebreak procedure is defined in the Rulebook.
+## Key Tournament Rules
+
+The Season 2 Rulebook carries forward the core competitive and operational regulations established for Green Pepper Season 1, adapted to the Season 2 format.
+
+- **Roster continuity:** teams must field at least three players from their applicable five-player reference roster in every official match.
+- **Organizational restriction:** only one team per esports organization may participate.
+- **Player eligibility:** players must use their own registered accounts; account sharing, impersonation and multi-teaming are prohibited.
+- **Integrity webcams:** all players must use an integrity webcam during official matches, unless an exception is approved in writing by administration.
+- **Anti-cheat:** players must use the anti-cheat required by the designated tournament platform.
+- **Match conduct:** cheating, unauthorized software, exploits, stream sniping, harassment, betting on own matches and match manipulation are prohibited.
+- **Technical issues:** teams must notify administration immediately; replays and reschedules are not automatic.
+- **Broadcasting:** community broadcasts and co-streams require prior approval. Player POV streams require prior notification and a 120-second delay unless otherwise announced.
+- **Protests:** formal protests must be submitted through the official support channel, normally within 24 hours after a match.
+- **Administration:** Green Pepper may investigate incidents, correct results and apply proportionate sanctions to protect competitive integrity.
+
+The full rules, including roster eligibility, substitutions, map vetoes, scheduling, technical pauses, disconnections, broadcast rights, penalties and appeals, are available in the Rulebook.
 
 ## Event Information
 
@@ -52,6 +81,7 @@ Further event details will be announced.
 | Registration | To be announced |
 | Prize Pool | To be announced |
 | Tournament platform | To be announced |
+| European VRS snapshot | To be announced |
 
 ## Official Documents
 
