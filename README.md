@@ -55,6 +55,7 @@ The 16-team Playoffs use a Double-Elimination bracket. All Upper Bracket and Low
 The Season 2 Rulebook carries forward the core competitive and operational regulations established for Green Pepper Season 1, adapted to the Season 2 format.
 
 - **Roster continuity:** teams must field at least three players from their applicable five-player reference roster in every official match.
+- **Roster changes:** Playoff teams may make up to two approved changes to the Sub 1 / Sub 2 slots in total; using an already registered substitute does not count as a slot change.
 - **Organizational restriction:** only one team per esports organization may participate.
 - **Player eligibility:** players must use their own registered accounts; account sharing, impersonation and multi-teaming are prohibited.
 - **Integrity webcams:** all players must use an integrity webcam during official matches, unless an exception is approved in writing by administration.
@@ -82,7 +83,7 @@ Further event details will be announced.
 | Tournament platform | FACEIT |
 | FACEIT Anti-Cheat | Mandatory for all players |
 | European VRS snapshot | 2 November 2026 |
-| Map Pool | Ancient, Anubis, Dust2, Inferno, Mirage, Nuke |
+| Map Pool | Ancient, Anubis, Cache, Dust2, Inferno, Mirage, Nuke |
 | Dates | To be announced |
 | Registration | To be announced |
 
@@ -92,7 +93,7 @@ Further event details will be announced.
 
 ## Updates
 
-The tournament schedule, registration process, eligibility requirements and operational information will be published closer to the event. The €250 entry fee, €5,000 prize pool, FACEIT platform, 2 November 2026 European VRS snapshot and six-map pool are retained from Season 1.
+The tournament schedule, registration process, eligibility requirements and operational information will be published closer to the event. The €250 entry fee, €5,000 prize pool, FACEIT platform, 2 November 2026 European VRS snapshot and seven-map pool are retained from Season 1.
 
 Follow our official channels to stay up to date:
 
