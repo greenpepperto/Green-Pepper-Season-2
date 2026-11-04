@@ -32,4 +32,4 @@ Follow our official channels to stay up to date:
 
 ---
 
-*Green Pepper — Competitive Counter-Strike, built for the community.*
+*Green Pepper — Bring the Heat , Own the Game.*
