@@ -27,6 +27,8 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 ## Quick Links
 
 - **Tournament Rules:** [Read the Rulebook](RULEBOOK.md)
+- **Tournament Schedule:** [View the Schedule](SCHEDULE.md)
+- **Valve / VRS Information:** [VALVE.md](VALVE.md)
 - **Registration:** [Green Pepper Website](https://www.playgreenpepper.com/)
 - **Socials:** [Green Pepper Socials](https://linktr.ee/greenpepperto)
 - **X:** [@GreenPepperTO](https://x.com/GreenPepperTO)
