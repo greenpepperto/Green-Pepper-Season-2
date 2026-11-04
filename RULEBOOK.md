@@ -9,7 +9,7 @@
 **Entry Fee:** €250 per team  
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
-**Map Pool:** de_ancient · de_anubis · de_dust2 · de_inferno · de_mirage · de_nuke  
+**Map Pool:** de_ancient · de_anubis · de_cache · de_dust2 · de_inferno · de_mirage · de_nuke  
 **Dates and registration window:** To be announced.
 
 This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Green Pepper Season 2 retains the Season 1 entry fee, prize pool, FACEIT competition platform, VRS snapshot date and map pool. Season 2 dates and registration window will be announced separately.
@@ -321,7 +321,7 @@ Green Pepper Season 2 features 24 teams:
 - `de_mirage`
 - `de_nuke`
 
-5.4.2. If Valve or Counter-Strike 2 updates the competitive map pool after the tournament has started, Green Pepper's published six-map pool will remain unchanged for the duration of the event, unless an exceptional change is required and formally announced.
+5.4.2. If Valve or Counter-Strike 2 updates the competitive map pool after the tournament has started, Green Pepper's published seven-map pool will remain unchanged for the duration of the event, unless an exceptional change is required and formally announced.
 
 5.4.3. Map vetoes must be completed through the official FACEIT match room or by the method specified by administration.
 
