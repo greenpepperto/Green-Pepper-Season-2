@@ -1,136 +1,201 @@
-# Green Pepper Season 2 — Tournament Rulebook
+# Green Pepper Season 2 — Tournament Rules and Regulations
 
-**Game:** Counter-Strike 2  
+**Game:** Counter-Strike 2 (CS2)  
 **Region:** Europe  
 **Teams:** 24  
-**Format:** VRS Direct Qualification + GSL Group Stage + Single-Elimination Play-In + Double-Elimination Playoffs  
-**Rulebook status:** Tournament format approved; event dates, registration details, prize pool, platform and operational information will be announced separately.
+**Format:** 4 VRS Direct Qualifiers + 5 × 4 GSL Groups + Play-In + 16-Team Double-Elimination Playoffs  
+**Match formats:** Group Stage BO3 · Play-In BO3 · Playoffs BO3 · Grand Final BO5  
+**Platform, dates, registration terms, prize pool and VRS snapshot:** To be announced.
+
+This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Season 1 dates, fees, prize amounts, platform settings and ranking snapshot dates do not automatically apply to Season 2.
 
 ---
 
-## 1. Tournament Structure
+## Table of Contents
 
-Green Pepper Season 2 will feature 24 teams:
+1. General Information and Registration
+2. Rosters, Eligibility and Core Policy
+3. Tournament Format and Structure
+4. Third-Place Ranking and Play-In
+5. Online Match Rules
+6. Scheduling and Technical Issues
+7. Broadcast and Media
+8. Penalties and Prohibited Conduct
+9. Tournament Administration, Protests and Appeals
+10. Prizes
+11. Final Provisions
 
-- **4 VRS-qualified teams** receive direct qualification to the 16-team Playoffs.
-- **20 remaining teams** compete in the Group Stage, divided into five groups of four.
-- The top two teams from each group qualify directly for the Playoffs.
-- The five third-place teams are ranked against one another using the cross-group tiebreak procedure in Section 4. The four highest-ranked third-place teams advance to the Play-In.
-- The two Play-In winners complete the 16-team Playoffs.
-- The fourth-place team in each group and the fifth-ranked third-place team are eliminated.
+---
 
-### 1.1 Qualification overview
+## 1. General Information and Registration
 
-| Route | Teams |
+### 1.1 Tournament Information
+
+1.1.1. Green Pepper Season 2 is a European Counter-Strike 2 tournament organized by Green Pepper.
+
+1.1.2. The tournament is intended to operate in accordance with applicable Valve Tournament Operating Requirements and other applicable rules. Any VRS status, alignment or approval is subject to the relevant Valve requirements and confirmation; this Rulebook does not itself guarantee VRS status or Valve approval.
+
+1.1.3. The tournament is designed for European teams. Unless the official event information states otherwise, each participating team's active roster must contain at least three European players.
+
+1.1.4. The tournament will feature 24 accepted teams, subject to the registration and eligibility process published by Green Pepper.
+
+### 1.2 Registration
+
+1.2.1. Teams must register through the official Green Pepper registration process.
+
+1.2.2. Registration is complete only when all required team, player and contact details have been submitted and the Organizer has confirmed acceptance.
+
+1.2.3. Each team must designate a captain during registration. Captain changes must be reported to administration, and the replacement captain must be listed on the approved roster.
+
+1.2.4. Teams must provide accurate team names, organization and affiliation details, player identities, Steam account details and relevant competitive-platform profiles.
+
+1.2.5. False, incomplete or misleading registration information may result in rejection, loss of a place, a match forfeit or disqualification.
+
+1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. Registration deadlines, payment requirements, acceptance criteria and Waiting List procedures will be announced separately.
+
+1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team. A place is not guaranteed until the replacement has been formally confirmed. Any ranking priority or order of replacement will be published by the Organizer and applied consistently.
+
+### 1.3 Entry Fees and Refunds
+
+1.3.1. Any entry fee, payment method and payment deadline will be stated in the official Season 2 registration information. No Season 1 fee or payment condition automatically applies to Season 2.
+
+1.3.2. The Season 2 refund policy will be published before registration payments are accepted. Teams are responsible for reviewing that policy before paying.
+
+1.3.3. If a team voluntarily withdraws, its entitlement to a refund is determined by the published Season 2 refund policy. No refund should be assumed unless the policy or applicable law provides for it.
+
+---
+
+## 2. Rosters, Eligibility and Core Policy
+
+### 2.1 Roster Submission
+
+2.1.1. Each team must register five starting players. The number of permitted substitutes and whether a coach may be registered will be specified in the official registration instructions.
+
+2.1.2. Teams must submit each player's display name, Steam account details and competitive-platform profile requested by the Organizer.
+
+2.1.3. Only players listed on the team's approved roster may participate in official matches.
+
+2.1.4. Each player may represent only one team during the tournament. Multi-accounting, account sharing, impersonation and playing for multiple teams are prohibited.
+
+2.1.5. Players must use their own accounts and must not allow another person to play on their behalf.
+
+2.1.6. Administration may request reasonable evidence to verify a player's identity, account ownership, eligibility, roster status or VRS match.
+
+### 2.2 Fixed Five-Player Reference Roster
+
+2.2.1. A fixed five-player reference roster will be used for roster-continuity checks:
+
+- **VRS-matched teams:** the five players on the team's matched official VRS roster in the applicable VRS snapshot used for Season 2.
+- **Other teams:** the five original starting players submitted in the team's accepted registration.
+
+2.2.2. Every team must field at least **three of the five players** from its applicable reference roster for the entirety of every official match, including the Group Stage, Play-In and Playoffs.
+
+2.2.3. The qualifying three players may differ from match to match. Teams are not required to nominate the same three core players for every match.
+
+2.2.4. For a team to be considered VRS-matched, at least three of its five registered starting players must match the same official five-player VRS roster in the applicable snapshot. Substitutes do not count towards initial VRS matching.
+
+2.2.5. A VRS-matched team must maintain at least three players from its matched VRS reference roster on its official tournament roster throughout the event. Falling below this threshold may result in disqualification or loss of VRS qualification, subject to applicable Valve requirements.
+
+2.2.6. Approved roster changes do not waive the three-of-five requirement.
+
+### 2.3 Duplicate Cores and Organizational Restrictions
+
+2.3.1. No two teams may use a shared core of three or more players from their applicable five-player reference rosters.
+
+2.3.2. **Only one team per esports organization may participate in Green Pepper Season 2.** This applies to teams belonging to, operated by, managed by, controlled by or officially representing the same organization, even if they use different names, rosters, managers or player accounts.
+
+2.3.3. Each team must disclose its organization, ownership or control relationships and any other team with which it is affiliated.
+
+2.3.4. Where affiliation is unclear, administration may assess ownership, management, contracts, shared staff, official representation and operational control. Shared sponsors or a shared service provider alone do not automatically establish that two teams belong to the same organization.
+
+2.3.5. If multiple teams from the same organization register, administration may require the organization to nominate one eligible team. If a conflict is discovered after acceptance or after competition begins, administration may reject or disqualify the affected team or teams, amend results where necessary and apply further sanctions if information was concealed or misrepresented.
+
+2.3.6. These restrictions are intended to prevent conflicts of interest, collusion, information sharing and other risks to competitive integrity.
+
+### 2.4 Roster Changes and Substitutions
+
+2.4.1. Roster changes require prior administration approval where specified. Approved changes do not alter the fixed five-player reference roster.
+
+2.4.2. Teams may use an approved, registered substitute between matches, provided the lineup meets all eligibility and roster-continuity requirements.
+
+2.4.3. A substitution during a match or between maps is permitted only in a verifiable emergency and requires administration approval where circumstances allow.
+
+2.4.4. The captain must contact administration through the official support channel as soon as an emergency substitution is required.
+
+2.4.5. Administration may deny a substitution if it violates roster rules, materially disrupts the match or undermines competitive integrity.
+
+2.4.6. Any stage-specific limits on roster changes, including Playoffs limits, will be announced before the tournament. No change may override the three-of-five reference-roster requirement.
+
+---
+
+## 3. Tournament Format and Structure
+
+### 3.1 Tournament Overview
+
+Green Pepper Season 2 features 24 teams:
+
+| Qualification route | Teams |
 |---|---:|
 | VRS Direct Qualification | 4 |
-| Group Stage — 1st and 2nd place in each group | 10 |
+| Group Stage — top two from each group | 10 |
 | Play-In winners | 2 |
-| **Playoffs** | **16** |
+| **Playoffs total** | **16** |
 
-The tournament format is designed around four VRS direct-qualification places. VRS eligibility, the applicable regional ranking and the ranking snapshot date will be confirmed in the official event information. Nothing in this rulebook independently guarantees Valve approval or VRS status.
+### 3.2 VRS Direct Qualification
 
-## 2. VRS Direct Qualification
+3.2.1. The four highest-ranked eligible registered teams in the official **European VRS ranking**, using the snapshot date announced by Green Pepper, receive direct qualification to the Playoffs.
 
-2.1. The four highest-ranked eligible registered teams in the official **European VRS ranking** at the announced snapshot date receive direct qualification to the Playoffs.
+3.2.2. VRS-qualified teams do not participate in the Group Stage.
 
-2.2. These teams do not participate in the Group Stage.
+3.2.3. The four VRS teams occupy Playoffs seeds 1–4, ordered by their position in the applicable European VRS snapshot. The highest-ranked team receives seed 1.
 
-2.3. The four VRS teams occupy Playoffs seeds 1–4, ordered by their position in the applicable European VRS snapshot. The highest-ranked team receives seed 1.
+3.2.4. A team's eligibility and ranking status are subject to applicable Valve rules and the tournament's published eligibility requirements.
 
-2.4. A team's eligibility and ranking status are subject to the applicable Valve rules and the tournament's published eligibility requirements.
+3.2.5. If a directly qualified team withdraws or becomes ineligible, the Organizer will determine a replacement under the published replacement policy and applicable Valve requirements.
 
-2.5. If a directly qualified team withdraws or becomes ineligible, the Organizer will determine the replacement in accordance with the published eligibility and replacement policy, while respecting applicable Valve requirements.
+3.2.6. Direct qualification is determined by the published ranking criteria and the event's registration process; it is not an invitation to participate.
 
-## 3. Group Stage — GSL Format
+### 3.3 Group Stage — GSL BO3
 
-3.1. The 20 Group Stage teams are divided into **five groups of four teams**: Groups A, B, C, D and E.
+3.3.1. The 20 remaining teams are divided into **five groups of four teams**, designated Groups A, B, C, D and E.
 
-3.2. Each group uses a standard GSL double-elimination format. **Every Group Stage series is BO3.**
+3.3.2. Each group uses the standard four-team GSL double-elimination format. **All Group Stage matches are BO3.**
 
-3.3. Each group consists of five series:
+3.3.3. Each group consists of five matches:
 
 | Match | Fixture | Outcome |
 |---|---|---|
 | Opening Match 1 | Group seed 1 vs Group seed 4 | Winner advances in Upper Bracket |
 | Opening Match 2 | Group seed 2 vs Group seed 3 | Winner advances in Upper Bracket |
-| Winners' Match | Winners of Opening Matches 1 and 2 | Winner qualifies in 1st place |
+| Winners' Match | Winners of Opening Matches 1 and 2 | Winner qualifies 1st |
 | Elimination Match | Losers of Opening Matches 1 and 2 | Loser finishes 4th and is eliminated |
-| Decider Match | Loser of Winners' Match vs winner of Elimination Match | Winner qualifies in 2nd; loser finishes 3rd |
+| Decider Match | Loser of Winners' Match vs winner of Elimination Match | Winner qualifies 2nd; loser finishes 3rd |
 
-3.4. Group standings are determined by the GSL bracket results, not by a round-robin table.
+3.3.4. The first-place and second-place teams in each group qualify directly for the Playoffs.
 
-3.5. The first-place and second-place teams in each group qualify directly for the Playoffs.
+3.3.5. The third-place team in each group enters the cross-group ranking procedure in Section 4.
 
-3.6. The third-place team in each group enters the cross-group ranking procedure in Section 4.
+3.3.6. The fourth-place team in each group is eliminated.
 
-3.7. The fourth-place team in each group is eliminated.
+3.3.7. Group seeding and the draw procedure will be published before the Group Stage. VRS ranking may be used as a seeding reference where applicable. The same draw principles will be applied consistently to all groups.
 
-### 3.8. Group seeding and draw
+### 3.4 Playoffs — 16-Team Double Elimination
 
-The Organizer will publish the draw procedure before the Group Stage. VRS ranking may be used as a seeding reference where available. The draw procedure will be applied consistently to all participating teams and will be published before the first Group Stage match.
+3.4.1. The Playoffs consist of 16 teams: four VRS direct qualifiers, ten Group Stage qualifiers and two Play-In winners.
 
-## 4. Ranking the Five Third-Place Teams
+3.4.2. The Playoffs use a **Double-Elimination bracket**. A team is eliminated after its second Playoffs series loss.
 
-4.1. The five third-place teams, one from each group, are compared to determine the four Play-In participants.
+3.4.3. All Upper Bracket and Lower Bracket matches are BO3.
 
-4.2. The following criteria apply **in the order listed**. The first criterion that separates two or more teams determines their order:
+3.4.4. The Grand Final is BO5.
 
-1. **European VRS ranking:** the better position in the official European VRS snapshot announced for the tournament ranks higher. A lower numerical rank represents a better position.
-2. **Group Stage series record:** more series wins, then fewer series losses.
-3. **Map differential:** maps won minus maps lost across all Group Stage series.
-4. **Map win percentage:** maps won divided by maps played.
-5. **Round differential:** rounds won minus rounds lost across all maps played.
-6. **Round win percentage:** rounds won divided by rounds played.
-7. **Group Stage draw seed:** the higher original group draw seed ranks higher.
-8. **Organizer-administered draw:** if teams remain tied after all previous criteria, the Organizer will conduct and record a random draw.
+3.4.5. Teams losing in the Upper Bracket move to the corresponding Lower Bracket round. Teams losing in the Lower Bracket are eliminated.
 
-4.3. A team with an official European VRS ranking is ranked ahead of a team without a ranking. Teams without a published VRS position are treated as unranked for Criterion 1 and are compared using Criteria 2–8.
+3.4.6. The Grand Final is contested between the Upper Bracket winner and the Lower Bracket winner. The final match regulations will state whether a bracket reset or any other Grand Final advantage applies. This will be announced before the Playoffs begin.
 
-4.4. If the official VRS snapshot lists teams with the same ranking position, the next criterion is applied.
+### 3.5 Playoffs Seeding
 
-4.5. The VRS snapshot date and source used for this comparison will be announced before the competition begins. The same snapshot must be used consistently for all five third-place teams.
-
-4.6. The four highest-ranked third-place teams advance to the Play-In. The fifth-ranked third-place team is eliminated.
-
-## 5. Play-In — Single Elimination
-
-5.1. The Play-In consists of the four highest-ranked third-place teams from the Group Stage.
-
-5.2. The Play-In is a **Single-Elimination bracket**, with two BO3 semi-finals.
-
-5.3. The pairings are:
-
-| Match | Fixture |
-|---|---|
-| Play-In Semi-final 1 | 1st-ranked third-place team vs 4th-ranked third-place team |
-| Play-In Semi-final 2 | 2nd-ranked third-place team vs 3rd-ranked third-place team |
-
-5.4. The two winners qualify for the 16-team Playoffs.
-
-5.5. The two losing teams are eliminated.
-
-## 6. Playoffs — 16-Team Double Elimination
-
-6.1. The Playoffs consist of 16 teams:
-
-- 4 VRS direct qualifiers;
-- 10 teams finishing first or second in their Group Stage groups;
-- 2 Play-In winners.
-
-6.2. The Playoffs use a **Double-Elimination bracket**. A team is eliminated after its second loss in the Playoffs.
-
-6.3. All Upper Bracket and Lower Bracket series are BO3.
-
-6.4. The Grand Final is BO5.
-
-6.5. The bracket consists of an Upper Bracket and a Lower Bracket. Teams losing in the Upper Bracket move to the corresponding Lower Bracket round. Teams losing in the Lower Bracket are eliminated.
-
-6.6. The Grand Final is contested between the Upper Bracket winner and the Lower Bracket winner. Any bracket-reset or advantage rule will be stated in the final Playoffs match regulations before the Playoffs begin.
-
-### 6.7. Playoffs seeding
-
-The initial seeding structure is:
+3.5.1. The initial seeding structure is:
 
 | Seeds | Qualification |
 |---|---|
@@ -139,81 +204,433 @@ The initial seeding structure is:
 | 10–14 | Five Group Stage runners-up |
 | 15–16 | Play-In winners |
 
-Within the Group Stage winners and runners-up categories, the Organizer will publish a consistent ordering method before the Playoffs. The method may consider the applicable VRS ranking and Group Stage draw seed. Play-In winners will be ordered using their third-place ranking from Section 4.
+3.5.2. Within the Group Stage winners and runners-up categories, the Organizer will publish a consistent ordering method before the Playoffs. The method may consider the applicable VRS ranking and original Group Stage draw seed.
 
-6.8. The Organizer will publish the complete Playoffs bracket and all seeds before the first Playoffs match.
+3.5.3. Play-In winners will be ordered using their third-place ranking from Section 4.
 
-## 7. Match Rules
-
-7.1. Match formats:
-
-| Stage | Match format |
-|---|---|
-| Group Stage — GSL | BO3 |
-| Play-In | BO3 |
-| Playoffs — Upper Bracket | BO3 |
-| Playoffs — Lower Bracket | BO3 |
-| Grand Final | BO5 |
-
-7.2. The active Counter-Strike 2 competitive map pool and the official veto procedure will be announced before the tournament.
-
-7.3. Match start times, server information, lobby procedures and match reporting requirements will be communicated by the Organizer or appointed tournament administrators.
-
-7.4. Teams must be ready at the scheduled match time and follow administrator instructions.
-
-7.5. Pauses, technical issues, disconnects, overtime, protests and match rescheduling are handled under the tournament's match-administration procedures, which will be published before competition.
-
-## 8. Rosters and Player Eligibility
-
-8.1. Teams must register their players and any permitted substitutes by the deadlines announced by the Organizer.
-
-8.2. Only players approved on a team's official tournament roster may compete.
-
-8.3. Roster changes, stand-ins and emergency substitutions require prior approval from the Organizer and must comply with applicable Valve requirements.
-
-8.4. Player identity, account ownership and eligibility may be checked by tournament administrators.
-
-8.5. Teams are responsible for ensuring that all roster information is accurate and that their players comply with the tournament rules and applicable game/platform rules.
-
-## 9. Competitive Integrity and Conduct
-
-9.1. All teams, players and staff must act professionally and maintain competitive integrity.
-
-9.2. Match-fixing, cheating, the use of unauthorized software, exploiting unintended game behaviour, account sharing, impersonation and any attempt to manipulate match results are prohibited.
-
-9.3. Players must follow administrator instructions and may not intentionally delay or disrupt matches.
-
-9.4. The Organizer may investigate suspected rule violations and apply sanctions proportionate to the violation, including warnings, map or series forfeits, disqualification or other measures permitted by the rules.
-
-9.5. Teams may submit protests through the official channel and within the deadline communicated by tournament administrators. The Organizer's ruling on tournament administration matters is final, subject to any applicable external rules.
-
-## 10. Organizer Authority and Rule Changes
-
-10.1. The Organizer is responsible for tournament administration, scheduling, seeding, draws, match rulings and enforcement of this rulebook.
-
-10.2. The Organizer may clarify or amend these rules where necessary to protect competitive integrity, ensure operational continuity or comply with applicable Valve requirements.
-
-10.3. Any material change will be communicated to participating teams through the official tournament channels.
-
-10.4. Where a matter is not expressly covered, the Organizer will make a reasonable decision consistent with the principles of fairness, competitive integrity and the published tournament format.
+3.5.4. The complete Playoffs bracket and all seeds will be published before the first Playoffs match.
 
 ---
 
-## 11. Event Information
+## 4. Ranking Third-Place Teams and Play-In
 
-The following details will be announced separately:
+### 4.1 Ranking the Five Third-Place Teams
 
-- Tournament dates and match schedule;
-- Registration process and eligibility requirements;
-- Entry fee and payment terms, if applicable;
-- Prize pool and prize distribution;
-- Tournament platform, servers and communication channels;
-- Active map pool and veto procedure;
-- Protest deadlines and detailed match-administration procedures;
-- Official European VRS snapshot date.
+4.1.1. The five third-place teams, one from each group, are compared to determine the four Play-In participants.
 
-**Official channels**
-- Website: https://www.playgreenpepper.com
-- X: https://x.com/GreenPepperTO
+4.1.2. The following criteria apply in the order listed. The first criterion that separates teams determines their order:
 
-*Green Pepper — Bring the Heat, Own the Game.*
+1. **European VRS ranking:** the better position in the official European VRS snapshot announced for the tournament ranks higher. A lower numerical rank represents a better position.
+2. **Group Stage series record:** more series wins, then fewer series losses.
+3. **Map differential:** maps won minus maps lost across all Group Stage series.
+4. **Map win percentage:** maps won divided by maps played.
+5. **Round differential:** rounds won minus rounds lost across all maps played.
+6. **Round win percentage:** rounds won divided by rounds played.
+7. **Original Group Stage draw seed:** the higher original draw seed ranks higher.
+8. **Organizer-administered random draw:** if teams remain tied, the Organizer will conduct and record a random draw.
+
+4.1.3. A team with an official European VRS ranking is ranked ahead of a team without a ranking. Teams without a published VRS position are treated as unranked for Criterion 1 and are compared using Criteria 2–8.
+
+4.1.4. If the official VRS snapshot lists teams with the same ranking position, the next criterion is applied.
+
+4.1.5. The VRS snapshot date and source used for this comparison will be announced before the competition begins. The same snapshot must be used consistently for all five third-place teams.
+
+4.1.6. The four highest-ranked third-place teams advance to the Play-In. The fifth-ranked third-place team is eliminated.
+
+### 4.2 Play-In — Single Elimination BO3
+
+4.2.1. The Play-In consists of the four highest-ranked third-place teams from the Group Stage.
+
+4.2.2. The Play-In is a Single-Elimination bracket with two BO3 semi-finals.
+
+| Match | Fixture |
+|---|---|
+| Semi-final 1 | 1st-ranked third-place team vs 4th-ranked third-place team |
+| Semi-final 2 | 2nd-ranked third-place team vs 3rd-ranked third-place team |
+
+4.2.3. The two winners qualify for the 16-team Playoffs and receive seeds 15–16, ordered by their third-place ranking from Section 4.1.
+
+4.2.4. The two losing teams are eliminated.
+
+---
+
+## 5. Online Match Rules
+
+### 5.1 Platform Requirements
+
+5.1.1. All official matches must be played through the competitive platform and tournament infrastructure designated by Green Pepper and announced before the event.
+
+5.1.2. Every player must use their own eligible account and join the correct match room with the registered account.
+
+5.1.3. Match results, match links, brackets and standings will be tracked through the official tournament platform and/or channels designated by administration.
+
+5.1.4. Players must follow match-room instructions and must not start, abandon or alter an official match without authorization.
+
+5.1.5. A team that cannot access its match room must notify administration immediately and provide evidence of the issue.
+
+### 5.2 Anti-Cheat and Player Eligibility
+
+5.2.1. Players must use the anti-cheat software required by the designated competitive platform and any additional requirements announced by Green Pepper.
+
+5.2.2. Where FACEIT is used, FACEIT Anti-Cheat is mandatory for every player whenever required by FACEIT and tournament administration.
+
+5.2.3. A match may not begin if a player fails to meet the applicable anti-cheat requirement. Administration may issue a forfeit if the issue is not resolved within the allowed start window.
+
+5.2.4. Cheating, unauthorized third-party software, account sharing and attempts to bypass anti-cheat are prohibited.
+
+5.2.5. Players with active bans that make them ineligible under the platform's rules or the event's announced eligibility policy may not participate.
+
+5.2.6. If a player is banned or found ineligible during the tournament, administration may investigate previous results and impose penalties, including forfeits or disqualification, where justified.
+
+### 5.3 Match Settings
+
+5.3.1. The official server configuration takes precedence where it differs from this summary.
+
+5.3.2. Match settings, regulation format, start money, round time, freeze time, overtime configuration and any platform-specific settings will be published before the tournament.
+
+5.3.3. Players must not change server settings themselves.
+
+5.3.4. Custom player models, unauthorized files or cosmetic modifications that provide an unfair advantage are prohibited.
+
+### 5.4 Map Pool and Veto
+
+5.4.1. The active Counter-Strike 2 competitive map pool for Season 2 will be announced by Green Pepper before the tournament.
+
+5.4.2. Map vetoes must be completed through the official match room or by the method specified by administration.
+
+5.4.3. Unless a different process is announced, the higher-seeded team chooses whether to be Team A or Team B.
+
+5.4.4. **BO3 veto procedure:**
+1. The higher-seeded team chooses Team A or Team B.
+2. Team A removes one map.
+3. Team B removes one map.
+4. Team A picks Map 1; Team B chooses the starting side.
+5. Team B picks Map 2; Team A chooses the starting side.
+6. Team A removes one map.
+7. Team B removes one map.
+8. The remaining map is the decider. A knife round or the server's designated side-selection method determines starting sides.
+
+5.4.5. **BO5 veto procedure:**
+1. The higher-seeded team chooses Team A or Team B.
+2. Team A removes one map.
+3. Team B removes one map.
+4. Team A picks Map 1; Team B chooses the starting side.
+5. Team B picks Map 2; Team A chooses the starting side.
+6. Team A picks Map 3; Team B chooses the starting side.
+7. Team B picks Map 4; Team A chooses the starting side.
+8. The remaining map is the decider. A knife round or the server's designated side-selection method determines starting sides.
+
+5.4.6. Map picks and bans are final once confirmed, except where an administrative or platform error requires correction.
+
+5.4.7. If a team does not complete its veto within the stated deadline, administration may complete the remaining steps on its behalf.
+
+5.4.8. If the active map pool changes after the tournament begins, the Organizer will announce whether the event's published map pool remains in effect or whether a change is required.
+
+### 5.5 Servers and Region
+
+5.5.1. Green Pepper Season 2 is a European event.
+
+5.5.2. Matches use the server selected by the platform or designated by administration.
+
+5.5.3. Players are responsible for ensuring that their internet connection, hardware and software are suitable for online competition.
+
+5.5.4. A team must report a server-location or routing concern before the match where possible. Administration determines whether a server change is appropriate.
+
+5.5.5. A player's poor connection alone does not automatically entitle the team to a reschedule or replay.
+
+### 5.6 Integrity Verification and Mandatory Webcams
+
+5.6.1. **Every player participating in official Green Pepper Season 2 matches must use an integrity webcam**, unless administration has expressly approved a written exception before the match. This requirement applies to all teams, regardless of VRS status or tournament stage.
+
+5.6.2. Players must position the webcam as instructed so that the player's face and upper body are reasonably visible throughout the match. The camera must provide a live, continuous image and must not be a prerecorded feed, virtual camera or manipulated video.
+
+5.6.3. Players must keep the webcam enabled and functional from the pre-match integrity check until the match has ended, including technical pauses and between maps, unless an administrator explicitly authorizes a temporary exception.
+
+5.6.4. Players must follow official instructions for webcam setup, framing, lighting and any required camera or room checks. Green Pepper will communicate the technical procedure and any required software before the event or match.
+
+5.6.5. If a webcam fails or disconnects, the player must immediately notify the opponent and tournament administration and pause the match when possible. Play may resume only as directed by administration. A brief technical issue does not automatically mean disqualification, but a player who cannot restore the required feed within the time allowed may be required to forfeit the map or match.
+
+5.6.6. Deliberately disabling, obstructing, redirecting, spoofing or manipulating a webcam feed, using another person in place of the registered player, or refusing a reasonable integrity check is a serious integrity violation and may result in a forfeit, disqualification, prize forfeiture or further sanctions.
+
+5.6.7. Administration may request screen sharing, relevant recordings, identity/account verification or additional reasonable checks where permitted by platform rules and applicable law.
+
+5.6.8. Webcam footage and other integrity evidence will be accessed only for tournament integrity, dispute resolution or rule enforcement, and handled in accordance with applicable law and any privacy notice supplied by the Organizer. Players must follow the event's published data-handling instructions.
+
+5.6.9. If a player has a genuine accessibility, medical, equipment or privacy concern affecting compliance, the team captain must contact administration before the match. Any exception must be expressly approved in writing; teams must not assume an exception has been granted.
+
+---
+
+## 6. Scheduling and Technical Issues
+
+### 6.1 Match Scheduling
+
+6.1.1. The official schedule will be published through Green Pepper's official channels and/or the designated tournament platform.
+
+6.1.2. All displayed times use the time zone specified in the official schedule. If no time zone is stated, teams must ask administration rather than assume.
+
+6.1.3. Teams are responsible for checking match windows, confirming match arrangements and being available during the announced period.
+
+6.1.4. Captains must coordinate through the official match chat or designated Green Pepper communication channel.
+
+6.1.5. A proposed time is not approved until the opponent and, where required, administration have confirmed it.
+
+### 6.2 Rescheduling
+
+6.2.1. Reschedule requests must be made in the official match chat or support channel and include the match link, reason and proposed alternative times.
+
+6.2.2. Rescheduling is valid only when approved by administration and within the relevant stage's published schedule window.
+
+6.2.3. Administration may deny a reschedule that delays the tournament, creates an unfair competitive advantage or conflicts with later matches.
+
+6.2.4. Teams must not use rescheduling to avoid an opponent, gain unfair preparation time or delay a result.
+
+6.2.5. If teams cannot agree on a time, they must contact administration before the deadline. Administration may set a mandatory match time.
+
+### 6.3 Punctuality and Forfeits
+
+6.3.1. Teams must be ready at the confirmed match start time, with eligible players available and required anti-cheat and integrity checks functioning.
+
+6.3.2. A **15-minute grace period** applies unless the official schedule or an administrator states otherwise.
+
+6.3.3. A team that cannot field a complete eligible lineup after the grace period may receive a forfeit loss.
+
+6.3.4. A match not completed within its scheduled window without an approved reschedule may be recorded as a forfeit.
+
+6.3.5. Administration may consider documented platform outages or exceptional circumstances before confirming a forfeit.
+
+6.3.6. Teams must provide evidence promptly when disputing a no-show or forfeit decision.
+
+### 6.4 Pauses and Timeouts
+
+6.4.1. Technical pauses are for genuine technical issues such as a game crash, server problem or player disconnection. Teams must explain the reason when requested.
+
+6.4.2. Unless the platform configuration or a published event-specific rule provides otherwise, each team may request up to one technical timeout of up to 15 minutes per match.
+
+6.4.3. Tactical pauses are limited to the number and duration supported by the official match configuration. Captains must request pauses through the approved method.
+
+6.4.4. Teams must not use technical pauses to gain an unfair tactical advantage, disrupt an opponent or delay a match without cause.
+
+6.4.5. Administration may shorten, extend or deny a pause based on the circumstances and tournament schedule.
+
+### 6.5 Disconnections and Technical Problems
+
+6.5.1. If a player disconnects, the affected team must use the in-game pause feature where available and notify the opponent and administration as soon as possible.
+
+6.5.2. Teams must not resume play until the issue has been addressed according to server rules and administrator instructions.
+
+6.5.3. The response depends on match state, server capability, platform rules and whether the issue affects one or both teams.
+
+6.5.4. A replay or rollback is not automatic. Administration decides whether a replay, continuation, round restart or other remedy is appropriate.
+
+6.5.5. Repeated or unexplained disconnections may result in a forfeit if a team cannot complete the match.
+
+6.5.6. If a CS2 update or platform maintenance prevents a match from running properly, teams must pause where possible and contact administration. Teams must not independently restart or reschedule an affected official match.
+
+6.5.7. Players are responsible for their internet connection, PC, peripherals, drivers and software. A personal power, hardware or ISP issue does not automatically require a replay or reschedule.
+
+6.5.8. Administration may grant an exception when a documented, widespread technical incident materially affects the match and a remedy is necessary to protect competitive integrity.
+
+---
+
+## 7. Broadcast and Media
+
+### 7.1 Community Broadcasting
+
+7.1.1. Community casters who wish to broadcast matches must request permission through the official Green Pepper contact channel before broadcasting.
+
+7.1.2. Approved broadcasters must follow technical, delay, branding and conduct conditions provided by administration.
+
+7.1.3. Participation in the tournament or access to a match room does not automatically grant broadcast permission.
+
+7.1.4. Player POV streaming is allowed only if the player or team notifies administration before the match and applies a mandatory **120-second broadcast delay**, unless Green Pepper announces a different condition.
+
+7.1.5. Green Pepper may approve, restrict or revoke community broadcast permission to protect competitive integrity or official broadcast arrangements.
+
+### 7.2 Official Broadcast Rights
+
+7.2.1. Green Pepper may broadcast selected official matches itself or through approved partners.
+
+7.2.2. Official broadcast delays and production conditions will be set by Green Pepper and communicated to broadcasters.
+
+7.2.3. Re-streaming or retransmitting an official Green Pepper or partner broadcast requires prior written permission.
+
+7.2.4. Broadcast violations may result in a stream being stopped, access being revoked or further penalties where appropriate.
+
+### 7.3 Co-Streaming
+
+7.3.1. Co-streaming an official Green Pepper broadcast requires prior written approval.
+
+7.3.2. Approved co-streamers must follow all conditions provided by Green Pepper, including branding, delay and content restrictions.
+
+7.3.3. Co-stream approval does not automatically grant independent spectator access or permission to produce a separate community broadcast.
+
+7.3.4. Green Pepper may deny or revoke co-stream permission to protect rights holders, competitive integrity or event operations.
+
+---
+
+## 8. Penalties and Prohibited Conduct
+
+Cheating, account sharing, stream sniping, match manipulation, harassment and other integrity violations may result in penalties up to and including disqualification. Administration considers the evidence, severity, intent, competitive impact and prior violations.
+
+### 8.1 Cheating and Third-Party Software
+
+8.1.1. Cheating of any kind is prohibited and may result in immediate disqualification.
+
+8.1.2. Unauthorized third-party software, scripts, hardware or modifications that provide an unfair advantage are prohibited.
+
+8.1.3. Account sharing, impersonation and allowing an unregistered player to compete are prohibited.
+
+8.1.4. Attempting to bypass anti-cheat or an integrity check is a serious violation.
+
+8.1.5. Custom models or unauthorized files that provide a competitive advantage are prohibited.
+
+8.1.6. If a player is found to have cheated or becomes ineligible during the event, administration may review the team's results and impose forfeits or disqualification where justified.
+
+### 8.2 Exploits and Illegal Actions
+
+8.2.1. Deliberately exploiting a game bug for an unfair advantage is prohibited.
+
+8.2.2. Pixel walking, use of invisible or unintended ledges and other prohibited map exploits are not allowed where they violate CS2 competitive rules or event instructions.
+
+8.2.3. Players must not use unintended bomb-plant locations or glitches to make the objective inaccessible or unfair.
+
+8.2.4. Players must not intentionally join the opposing team or manipulate team assignment to gain an advantage.
+
+8.2.5. Boosting or clipping through solid geometry to gain an illegal position is prohibited.
+
+8.2.6. Players must report a serious unintended exploit to administration rather than continue abusing it.
+
+8.2.7. Penalties depend on the nature and impact of the violation and may include a round loss, map loss, match forfeit or disqualification.
+
+### 8.3 Communication and Behaviour
+
+8.3.1. Players, coaches and team representatives must treat opponents, administrators, casters and other participants respectfully.
+
+8.3.2. Racist, discriminatory, threatening or harassing conduct is prohibited.
+
+8.3.3. Serious discriminatory abuse may result in a match forfeit, removal from the event or a tournament ban. Repeated offences may lead to stronger penalties.
+
+8.3.4. Threats, doxxing, targeted harassment and attempts to intimidate an opponent or administrator are serious violations.
+
+8.3.5. Publicly sharing private administrative discussions, confidential investigation material or private personal information without authorization may result in penalties.
+
+8.3.6. All participants must follow reasonable instructions from tournament administration and uphold fair play.
+
+### 8.4 Stream Sniping and Outside Information
+
+8.4.1. Players and coaches must not watch a live broadcast of their own ongoing match.
+
+8.4.2. This restriction applies between maps and during technical pauses.
+
+8.4.3. Teams must not receive live information from spectators, casters, friends or other outside sources.
+
+8.4.4. Suspected stream sniping or outside communication will be investigated using available evidence.
+
+8.4.5. Proven violations may result in a round or match loss, disqualification or a ban.
+
+### 8.5 Betting and Match Manipulation
+
+8.5.1. Players, coaches and team representatives must not bet on their own matches or use confidential tournament information for betting.
+
+8.5.2. Match-fixing, intentionally losing, collusion, result manipulation or attempts to influence another team to manipulate a match are prohibited.
+
+8.5.3. Participants must report credible approaches involving match manipulation to tournament administration.
+
+8.5.4. Violations may result in immediate disqualification, prize forfeiture and referral to the relevant platform or competition integrity body where appropriate.
+
+### 8.6 Repeated Violations and Sanctions
+
+8.6.1. Repeated violations may result in escalating penalties.
+
+8.6.2. Administration may remove a team whose conduct repeatedly disrupts the event or undermines competitive integrity.
+
+8.6.3. A team is responsible for the conduct of its players, coach and representatives participating in event activities.
+
+8.6.4. Penalties may include a warning, round loss, map loss, match forfeit, disqualification, prize forfeiture or exclusion from future Green Pepper events.
+
+---
+
+## 9. Tournament Administration, Protests and Appeals
+
+### 9.1 Administrative Authority
+
+9.1.1. Green Pepper administration interprets and enforces this Rulebook.
+
+9.1.2. Administration may investigate incidents, request evidence, correct results and issue penalties to protect the fairness and operation of the tournament.
+
+9.1.3. Situations not explicitly covered by this Rulebook are decided by administration using the principles of competitive integrity, consistency and fairness.
+
+9.1.4. Administration may publish clarifications or amendments. Material changes will be communicated through official channels.
+
+9.1.5. Decisions are final after the applicable protest or appeal process has concluded.
+
+9.1.6. Administration is not responsible for enforcing private agreements between players, teams, organizations or sponsors.
+
+### 9.2 Official Communication
+
+9.2.1. Teams must use the official Green Pepper communication channel announced by the Organizer for support requests, roster requests and protests.
+
+9.2.2. Captains are responsible for communicating administrative decisions and match information to their teams.
+
+9.2.3. Teams should keep match links, screenshots, recordings and relevant correspondence until the event and any related protest period have concluded.
+
+9.2.4. A request sent through an unofficial channel may not be treated as a formal report or protest.
+
+9.2.5. Green Pepper's official social media is [@GreenPepperTO](https://x.com/GreenPepperTO). Social media posts do not replace formal protest submission through the designated support channel.
+
+### 9.3 Protests and Appeals
+
+9.3.1. Formal protests must be submitted through the official Green Pepper support channel.
+
+9.3.2. A protest must identify the match, the rule allegedly violated, the teams and players involved, and the remedy requested.
+
+9.3.3. Supporting evidence should include match links, screenshots, demo or recording timestamps and relevant messages where available.
+
+9.3.4. Protests must be filed within **24 hours after the match concludes**, unless the schedule or administration announces a different deadline for a specific stage. Administration may decline late protests unless exceptional circumstances justify review.
+
+9.3.5. Teams must not delay a protest until it becomes strategically advantageous.
+
+9.3.6. Administration may request further evidence from either team or from the platform.
+
+9.3.7. Where practicable, an appeal is reviewed by a senior administrator not directly responsible for the original decision.
+
+9.3.8. Final decisions and resulting standings changes will be communicated to affected teams. Confidential personal or investigation details may remain private.
+
+---
+
+## 10. Prizes
+
+10.1. The Season 2 prize pool and prize distribution will be published through official Green Pepper channels before the tournament.
+
+10.2. The prize pool is subject to the eligibility and disqualification provisions in this Rulebook.
+
+10.3. Winning teams will be contacted using the registration contact details after results are confirmed and any material protests or integrity investigations are resolved.
+
+10.4. Teams must provide accurate payment details and any documentation reasonably required to process their prize.
+
+10.5. Prize payments will be made within the timeframe communicated by Green Pepper after the required information has been received and verified.
+
+10.6. Green Pepper is not responsible for private disputes over how a team divides its prize among players, staff or an organization.
+
+10.7. Prizes may be withheld or forfeited if a team or player is disqualified for cheating, match-fixing, serious roster violations or another severe breach.
+
+10.8. Questions about prize eligibility or payment must be submitted through the official support channel.
+
+---
+
+## 11. Final Provisions
+
+11.1. By registering, every team and player confirms that they have read, understood and agree to follow this Rulebook.
+
+11.2. Participation constitutes acceptance of the rules and of reasonable administrative decisions made to protect the tournament.
+
+11.3. Green Pepper may clarify or update this Rulebook when necessary. Any material change will be communicated through official channels.
+
+11.4. Where a platform's mandatory rules conflict with an event rule, the platform's mandatory requirements apply to platform operation; Green Pepper administration determines the tournament consequence, subject to applicable law and external rules.
+
+11.5. Where a matter is not expressly covered, the Organizer will make a reasonable decision consistent with fairness, competitive integrity and the published tournament format.
+
+**GREEN PEPPER ADMINISTRATION**  
+**Green Pepper Season 2 — Counter-Strike 2 Tournament**
+
+*Bring the Heat. Own the Game.*
