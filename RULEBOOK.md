@@ -18,17 +18,54 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 ## Table of Contents
 
-1. General Information and Registration
-2. Rosters, Eligibility and Core Policy
-3. Tournament Format and Structure
-4. Third-Place Ranking and Play-In
-5. Online Match Rules
-6. Scheduling and Technical Issues
-7. Broadcast and Media
-8. Penalties and Prohibited Conduct
-9. Tournament Administration, Protests and Appeals
-10. Prizes
-11. Final Provisions
+1. [General Information](#1-general-information)
+   - [1.1 Tournament Information](#11-tournament-information)
+   - [1.2 Registration and entry fee](#12-registration-and-entry-fee)
+     - [Refund Policy](#refund-policy)
+   - [1.3 Roster Submission](#13-roster-submission)
+   - [1.4 Roster Limitations and Core Policy](#14-roster-limitations-and-core-policy)
+   - [1.5 Substitutions](#15-substitutions)
+2. [Tournament Format and Structure](#2-tournament-format-and-structure)
+   - [2.1 Seeding Rules](#21-seeding-rules)
+   - [2.2 Direct Playoff Qualification](#22-direct-playoff-qualification)
+   - [2.3 Swiss Stage](#23-swiss-stage)
+   - [2.4 Playoffs](#24-playoffs)
+   - [2.5 Seeding and Tiebreakers](#25-seeding-and-tiebreakers)
+3. [Online Match Rules](#3-online-match-rules)
+   - [3.1 Platform Requirements](#31-platform-requirements)
+   - [3.2 Anti-Cheat and Eligibility](#32-anti-cheat-and-eligibility)
+   - [3.3 Match Settings](#33-match-settings)
+   - [3.4 Map Picks and Bans](#34-map-picks-and-bans)
+   - [3.5 Servers and Region](#35-servers-and-region)
+   - [3.6 Integrity Verification and Mandatory Webcams](#36-integrity-verification-and-mandatory-webcams)
+4. [Scheduling](#4-scheduling)
+   - [4.1 Match Scheduling](#41-match-scheduling)
+   - [4.2 Rescheduling](#42-rescheduling)
+   - [4.3 Punctuality and Forfeits](#43-punctuality-and-forfeits)
+5. [Technical Issues](#5-technical-issues)
+   - [5.1 Pauses and Timeouts](#51-pauses-and-timeouts)
+   - [5.2 Disconnections](#52-disconnections)
+   - [5.3 Game Updates](#53-game-updates)
+   - [5.4 Internet and Hardware Issues](#54-internet-and-hardware-issues)
+6. [Broadcast and Media](#6-broadcast-and-media)
+   - [6.1 Community Broadcasting](#61-community-broadcasting)
+   - [6.2 Broadcasting Rights](#62-official-broadcast-rights)
+   - [6.3 Co-Streaming](#63-co-streaming)
+7. [Penalties and Prohibited Conduct](#7-penalties-and-prohibited-conduct)
+   - [7.1 Cheating and Third-Party Software](#71-cheating-and-third-party-software)
+   - [7.2 Exploits and Illegal Actions](#72-exploits-and-illegal-actions)
+   - [7.3 Communication and Behaviour](#73-communication-and-behaviour)
+   - [7.4 Stream Sniping and Outside Information](#74-stream-sniping-and-outside-information)
+   - [7.5 Betting and Match Manipulation](#75-betting-and-match-manipulation)
+   - [7.6 Repeated Violations](#76-repeated-violations)
+8. [Tournament Administration](#8-tournament-administration)
+   - [8.1 Administrative Authority](#81-administrative-authority)
+   - [8.2 Official Communication](#82-official-communication)
+   - [8.3 Protests and Appeals](#83-protests-and-appeals)
+9. [Prizes](#9-prizes)
+   - [9.1 Prize Pool](#91-prize-pool)
+   - [9.2 Prize Distribution](#92-prize-distribution)
+10. [Frequently Asked Questions](#10-frequently-asked-questions)
 
 ---
 
