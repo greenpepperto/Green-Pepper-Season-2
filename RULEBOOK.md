@@ -82,17 +82,19 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 ### 2.1 Roster Submission
 
-2.1.1. Each team must register five starting players. The number of permitted substitutes and whether a coach may be registered will be specified in the official registration instructions.
+2.1.1. Each team must register five starting players. The permitted roster size, substitute slots and registration procedure will be stated in the official registration instructions. Teams must not field unregistered players.
 
-2.1.2. Teams must submit each player's display name, Steam account details and competitive-platform profile requested by the Organizer.
+2.1.2. A coach may substitute as a player only if listed on the official roster before the match, eligible to participate, and the lineup continues to satisfy the applicable three-of-five requirement.
 
-2.1.3. Only players listed on the team's approved roster may participate in official matches.
+2.1.3. Teams must submit each player's display name, Steam account details and competitive-platform profile requested by the Organizer.
 
-2.1.4. Each player may represent only one team during the tournament. Multi-accounting, account sharing, impersonation and playing for multiple teams are prohibited.
+2.1.4. Only players listed on the team's approved roster may participate in official matches.
 
-2.1.5. Players must use their own accounts and must not allow another person to play on their behalf.
+2.1.5. Each player may represent only one team during the tournament. Multi-accounting, account sharing, impersonation and playing for multiple teams are prohibited.
 
-2.1.6. Administration may request reasonable evidence to verify a player's identity, account ownership, eligibility, roster status or VRS match.
+2.1.6. Players must use their own accounts and must not allow another person to play on their behalf.
+
+2.1.7. Administration may request reasonable evidence to verify a player's identity, account ownership, eligibility, roster status or VRS match.
 
 ### 2.2 Fixed Five-Player Reference Roster
 
@@ -137,7 +139,9 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 2.4.5. Administration may deny a substitution if it violates roster rules, materially disrupts the match or undermines competitive integrity.
 
-2.4.6. Any stage-specific limits on roster changes, including Playoffs limits, will be announced before the tournament. No change may override the three-of-five reference-roster requirement.
+2.4.6. During the Playoffs, teams may make no more than **two substitute-slot roster changes in total** across the entire Playoffs, limited to the Sub 1 / Sub 2 slots and subject to administration approval. Replacing one player in either substitute slot counts as one change; replacing both substitute-slot players counts as two changes.
+
+2.4.7. Using a substitute who is already listed on the approved roster does not itself count as a substitute-slot roster change. Every lineup must continue to satisfy the applicable three-of-five reference-roster requirement.
 
 ---
 
@@ -307,10 +311,11 @@ Green Pepper Season 2 features 24 teams:
 
 ### 5.4 Map Pool and Veto
 
-5.4.1. The official map pool for Green Pepper Season 2 is the same six-map pool used for Season 1:
+5.4.1. The official map pool for Green Pepper Season 2 is the same seven-map pool used for Season 1:
 
 - `de_ancient`
 - `de_anubis`
+- `de_cache`
 - `de_dust2`
 - `de_inferno`
 - `de_mirage`
@@ -346,7 +351,7 @@ Green Pepper Season 2 features 24 teams:
 
 5.4.8. If a team does not complete its veto within the stated deadline, administration may complete the remaining steps on its behalf.
 
-5.4.9. The six-map pool listed in Section 5.4.1 remains in effect for the event, subject only to an exceptional change formally announced by Green Pepper.
+5.4.9. The seven-map pool listed in Section 5.4.1 remains in effect for the event, subject only to an exceptional change formally announced by Green Pepper.
 
 ### 5.5 Servers and Region
 
