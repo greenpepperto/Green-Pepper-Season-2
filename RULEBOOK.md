@@ -101,6 +101,25 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team. A place is not guaranteed until the replacement has been formally confirmed. Any ranking priority or order of replacement will be published by the Organizer and applied consistently.
 
+1.2.8. **Open Registration and opening date:** Green Pepper Season 2 will use an open-registration process. The registration opening date and time will be announced through the official Green Pepper communication channels.
+
+1.2.9. **Initial selection and contact:** On the date and time announced by the Organizer, Green Pepper will conduct an initial selection and contact process, aiming to contact up to **20 teams** from Open Registration. Priority will be given to the highest-ranked eligible VRS teams using the official VRS publication specified in Section 1.1.
+
+1.2.10. If fewer than 20 eligible VRS-ranked teams have registered by the initial selection, all registered eligible VRS-ranked teams will be contacted first. Any remaining contacts, up to a maximum of 20 teams, will be allocated to non-VRS-ranked teams in order of completed registration.
+
+1.2.11. If fewer than 20 teams in total have registered by the announced initial selection date and time, all registered teams will be contacted.
+
+1.2.12. **Capacity expansion:** The Organizer reserves the right to expand the tournament capacity to a maximum of **24 teams**, depending on registration demand and organizational capacity. All participating teams acknowledge that the tournament may be expanded beyond its initially advertised capacity. Any expansion will be officially communicated through Green Pepper's official communication channels.
+
+1.2.13. **Further selection and available places:** Following the initial selection, if tournament places remain available, priority will continue to be given to eligible VRS-ranked teams, with higher-ranked teams taking precedence over non-VRS-ranked teams. The VRS publication identified in Section 1.1 will be used consistently for this process.
+
+1.2.14. A team being contacted or selected does not by itself confirm its place. All required registration information and payments must be completed and confirmed before registration is considered complete.
+
+1.2.15. **Age requirement:** Only individuals **over 13 years of age** may register or participate in the tournament.
+
+1.2.16. **Liability statement:** The captain of every participating team must sign the Organizer's liability statement covering equipment damaged as a result of misuse, negligence or theft. The signed statement must be submitted in the manner and by the deadline communicated by the Organizer.
+
+
 ### 1.3 Entry Fees and Refunds
 
 1.3.1. The entry fee is **€250 per team**. Payment instructions and deadlines will be communicated through the official Green Pepper channels.
@@ -166,19 +185,19 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 ### 2.4 Roster Changes and Substitutions
 
-2.4.1. Roster changes require prior administration approval where specified. Approved changes do not alter the fixed five-player reference roster.
+2.4.1. Once a team has submitted its roster, a maximum of **two player changes in total** will be permitted across the tournament. Each replacement of a player on the submitted roster counts as one change. Any change requires prior administration approval.
 
-2.4.2. Teams may use an approved, registered substitute between matches, provided the lineup meets all eligibility and roster-continuity requirements.
+2.4.2. **Up to and including 16 days before the tournament starts:** teams may replace any player on their submitted roster, subject to the two-change limit and administration approval.
 
-2.4.3. A substitution during a match or between maps is permitted only in a verifiable emergency and requires administration approval where circumstances allow.
+2.4.3. **From 15 days until 7 days before the tournament starts:** roster changes may still be requested, but the team's applicable VRS core must remain unchanged. For VRS-matched teams, this means the required three-player VRS core must be preserved; all teams must continue to satisfy the fixed five-player reference-roster and three-of-five requirements.
 
-2.4.4. The captain must contact administration through the official support channel as soon as an emergency substitution is required.
+2.4.4. **Within 7 days of the tournament start:** roster changes are permitted only as emergency substitutions in exceptional circumstances. The request must be supported by valid and appropriate justification and is subject to explicit administration approval. An emergency substitution must never affect the applicable VRS core or reduce the team below the required three-of-five reference-roster threshold.
 
-2.4.5. Administration may deny a substitution if it violates roster rules, materially disrupts the match or undermines competitive integrity.
+2.4.5. The two-change limit applies to all player replacements, including changes involving starting players or substitutes. Using a substitute who was already listed on the team's submitted roster does not count as a roster change.
 
-2.4.6. During the Playoffs, teams may make no more than **two substitute-slot roster changes in total** across the entire Playoffs, limited to the Sub 1 / Sub 2 slots and subject to administration approval. Replacing one player in either substitute slot counts as one change; replacing both substitute-slot players counts as two changes.
+2.4.6. No approved roster change alters the team's fixed five-player reference roster or waives any VRS, eligibility or roster-continuity requirement.
 
-2.4.7. Using a substitute who is already listed on the approved roster does not itself count as a substitute-slot roster change. Every lineup must continue to satisfy the applicable three-of-five reference-roster requirement.
+2.4.7. Teams may use an approved, registered substitute between matches, provided the lineup meets all eligibility and roster-continuity requirements. A substitution during a match or between maps is permitted only in a verifiable emergency and requires administration approval where circumstances allow. The captain must contact administration through the official support channel as soon as an emergency substitution is required. Administration may deny a substitution if it violates roster rules, materially disrupts the match or undermines competitive integrity.
 
 ---
 
@@ -452,17 +471,19 @@ Green Pepper Season 2 features 24 teams:
 
 ### 6.3 Punctuality and Forfeits
 
-6.3.1. Teams must be ready at the confirmed match start time, with eligible players available and required anti-cheat and integrity checks functioning.
+6.3.1. Teams must be ready at the confirmed match start time, with all eligible players available and required anti-cheat and integrity checks functioning.
 
-6.3.2. A **15-minute grace period** applies unless the official schedule or an administrator states otherwise.
+6.3.2. A **15-minute grace period** applies from the scheduled match start time. Teams must be ready to join the server and begin the match within this period.
 
-6.3.3. A team that cannot field a complete eligible lineup after the grace period may receive a forfeit loss.
+6.3.3. If a team fails to be ready within the 15-minute grace period, it will receive a **default loss** for the match. In a BO3 match, the same sanction applies to the map in question: the team that is not ready will forfeit that map.
 
-6.3.4. A match not completed within its scheduled window without an approved reschedule may be recorded as a forfeit.
+6.3.4. After a map forfeit in a BO3, both teams will have an additional **15 minutes** to join the server and start the next map. If the team is still not ready within that additional period, it will receive a default loss for the next map, subject to administration's review of documented exceptional circumstances.
 
-6.3.5. Administration may consider documented platform outages or exceptional circumstances before confirming a forfeit.
+6.3.5. A match not completed within its scheduled window without an approved reschedule may be recorded as a forfeit.
 
-6.3.6. Teams must provide evidence promptly when disputing a no-show or forfeit decision.
+6.3.6. Administration may consider documented platform outages or exceptional circumstances before confirming a forfeit.
+
+6.3.7. Teams must provide evidence promptly when disputing a no-show or forfeit decision.
 
 ### 6.4 Pauses and Timeouts
 
