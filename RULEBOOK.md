@@ -18,54 +18,55 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 ## Table of Contents
 
-1. [General Information](#1-general-information)
+1. [General Information and Registration](#1-general-information-and-registration)
    - [1.1 Tournament Information](#11-tournament-information)
-   - [1.2 Registration and entry fee](#12-registration-and-entry-fee)
-     - [Refund Policy](#refund-policy)
-   - [1.3 Roster Submission](#13-roster-submission)
-   - [1.4 Roster Limitations and Core Policy](#14-roster-limitations-and-core-policy)
-   - [1.5 Substitutions](#15-substitutions)
-2. [Tournament Format and Structure](#2-tournament-format-and-structure)
-   - [2.1 Seeding Rules](#21-seeding-rules)
-   - [2.2 Direct Playoff Qualification](#22-direct-playoff-qualification)
-   - [2.3 Swiss Stage](#23-swiss-stage)
-   - [2.4 Playoffs](#24-playoffs)
-   - [2.5 Seeding and Tiebreakers](#25-seeding-and-tiebreakers)
-3. [Online Match Rules](#3-online-match-rules)
-   - [3.1 Platform Requirements](#31-platform-requirements)
-   - [3.2 Anti-Cheat and Eligibility](#32-anti-cheat-and-eligibility)
-   - [3.3 Match Settings](#33-match-settings)
-   - [3.4 Map Picks and Bans](#34-map-picks-and-bans)
-   - [3.5 Servers and Region](#35-servers-and-region)
-   - [3.6 Integrity Verification and Mandatory Webcams](#36-integrity-verification-and-mandatory-webcams)
-4. [Scheduling](#4-scheduling)
-   - [4.1 Match Scheduling](#41-match-scheduling)
-   - [4.2 Rescheduling](#42-rescheduling)
-   - [4.3 Punctuality and Forfeits](#43-punctuality-and-forfeits)
-5. [Technical Issues](#5-technical-issues)
-   - [5.1 Pauses and Timeouts](#51-pauses-and-timeouts)
-   - [5.2 Disconnections](#52-disconnections)
-   - [5.3 Game Updates](#53-game-updates)
-   - [5.4 Internet and Hardware Issues](#54-internet-and-hardware-issues)
-6. [Broadcast and Media](#6-broadcast-and-media)
-   - [6.1 Community Broadcasting](#61-community-broadcasting)
-   - [6.2 Broadcasting Rights](#62-official-broadcast-rights)
-   - [6.3 Co-Streaming](#63-co-streaming)
-7. [Penalties and Prohibited Conduct](#7-penalties-and-prohibited-conduct)
-   - [7.1 Cheating and Third-Party Software](#71-cheating-and-third-party-software)
-   - [7.2 Exploits and Illegal Actions](#72-exploits-and-illegal-actions)
-   - [7.3 Communication and Behaviour](#73-communication-and-behaviour)
-   - [7.4 Stream Sniping and Outside Information](#74-stream-sniping-and-outside-information)
-   - [7.5 Betting and Match Manipulation](#75-betting-and-match-manipulation)
-   - [7.6 Repeated Violations](#76-repeated-violations)
-8. [Tournament Administration](#8-tournament-administration)
-   - [8.1 Administrative Authority](#81-administrative-authority)
-   - [8.2 Official Communication](#82-official-communication)
-   - [8.3 Protests and Appeals](#83-protests-and-appeals)
-9. [Prizes](#9-prizes)
-   - [9.1 Prize Pool](#91-prize-pool)
-   - [9.2 Prize Distribution](#92-prize-distribution)
-10. [Frequently Asked Questions](#10-frequently-asked-questions)
+   - [1.2 Registration](#12-registration)
+   - [1.3 Entry Fees and Refunds](#13-entry-fees-and-refunds)
+2. [Rosters, Eligibility and Core Policy](#2-rosters-eligibility-and-core-policy)
+   - [2.1 Roster Submission](#21-roster-submission)
+   - [2.2 Fixed Five-Player Reference Roster](#22-fixed-five-player-reference-roster)
+   - [2.3 Duplicate Cores and Organizational Restrictions](#23-duplicate-cores-and-organizational-restrictions)
+   - [2.4 Roster Changes and Substitutions](#24-roster-changes-and-substitutions)
+3. [Tournament Format and Structure](#3-tournament-format-and-structure)
+   - [3.1 Tournament Overview](#31-tournament-overview)
+   - [3.2 VRS Direct Qualification](#32-vrs-direct-qualification)
+   - [3.3 Group Stage — GSL BO3](#33-group-stage--gsl-bo3)
+   - [3.4 Playoffs — 16-Team Double Elimination](#34-playoffs--16-team-double-elimination)
+   - [3.5 Playoffs Seeding](#35-playoffs-seeding)
+4. [Ranking Third-Place Teams and Play-In](#4-ranking-third-place-teams-and-play-in)
+   - [4.1 Ranking the Five Third-Place Teams](#41-ranking-the-five-third-place-teams)
+   - [4.2 Play-In — Single Elimination BO3](#42-play-in--single-elimination-bo3)
+5. [Online Match Rules](#5-online-match-rules)
+   - [5.1 Platform Requirements](#51-platform-requirements)
+   - [5.2 Anti-Cheat and Player Eligibility](#52-anti-cheat-and-player-eligibility)
+   - [5.3 Match Settings](#53-match-settings)
+   - [5.4 Map Pool and Veto](#54-map-pool-and-veto)
+   - [5.5 Servers and Region](#55-servers-and-region)
+   - [5.6 Integrity Verification and Mandatory Webcams](#56-integrity-verification-and-mandatory-webcams)
+6. [Scheduling and Technical Issues](#6-scheduling-and-technical-issues)
+   - [6.1 Match Scheduling](#61-match-scheduling)
+   - [6.2 Rescheduling](#62-rescheduling)
+   - [6.3 Punctuality and Forfeits](#63-punctuality-and-forfeits)
+   - [6.4 Pauses and Timeouts](#64-pauses-and-timeouts)
+   - [6.5 Disconnections and Technical Problems](#65-disconnections-and-technical-problems)
+7. [Broadcast and Media](#7-broadcast-and-media)
+   - [7.1 Community Broadcasting](#71-community-broadcasting)
+   - [7.2 Official Broadcast Rights](#72-official-broadcast-rights)
+   - [7.3 Co-Streaming](#73-co-streaming)
+8. [Penalties and Prohibited Conduct](#8-penalties-and-prohibited-conduct)
+   - [8.1 Cheating and Third-Party Software](#81-cheating-and-third-party-software)
+   - [8.2 Exploits and Illegal Actions](#82-exploits-and-illegal-actions)
+   - [8.3 Communication and Behaviour](#83-communication-and-behaviour)
+   - [8.4 Stream Sniping and Outside Information](#84-stream-sniping-and-outside-information)
+   - [8.5 Betting and Match Manipulation](#85-betting-and-match-manipulation)
+   - [8.6 Repeated Violations and Sanctions](#86-repeated-violations-and-sanctions)
+9. [Tournament Administration, Protests and Appeals](#9-tournament-administration-protests-and-appeals)
+   - [9.1 Administrative Authority](#91-administrative-authority)
+   - [9.2 Official Communication](#92-official-communication)
+   - [9.3 Protests and Appeals](#93-protests-and-appeals)
+10. [Prizes](#10-prizes)
+11. [Frequently Asked Questions](#11-frequently-asked-questions)
+
 
 ---
 
@@ -703,7 +704,59 @@ Cheating, account sharing, stream sniping, match manipulation, harassment and ot
 
 ---
 
-## 11. Final Provisions
+## 11. Frequently Asked Questions
+
+**Q: Do all players need a FACEIT account and FACEIT Anti-Cheat?**  
+A: Yes. Every player must use their own eligible FACEIT account and have FACEIT Anti-Cheat running for official matches.
+
+**Q: How does direct Playoff qualification work in Season 2?**  
+A: The four highest-ranked eligible European VRS teams among the accepted entrants qualify directly for the 16-team Playoffs, using the official **2 November 2026 European VRS snapshot** and subject to the roster and eligibility requirements in this Rulebook.
+
+**Q: What happens to teams that do not receive a direct Playoff place?**  
+A: The remaining 20 teams compete in five groups of four using a GSL double-elimination format. The top two teams in each group qualify directly for the Playoffs. The five third-place teams are ranked under Section 4; the top four enter the Play-In, and the Play-In winners take the final two Playoff places.
+
+**Q: How are the Group Stage matches played?**  
+A: All GSL Group Stage matches are best-of-three (BO3). Each group has opening matches, a Winners' Match, an Elimination Match and a Decider.
+
+**Q: What is the Playoff format?**  
+A: The 16-team Playoffs use a Double-Elimination bracket. Upper and Lower Bracket matches are BO3, and the Grand Final is BO5.
+
+**Q: Can multiple teams from the same esports organization participate?**  
+A: No. Only one team per organization may participate in Green Pepper Season 2. Teams must disclose organizational affiliations, and administration may reject or disqualify teams where an organizational conflict is confirmed.
+
+**Q: What counts as a team's core?**  
+A: For a VRS-matched team, the reference roster is the five players on its matched VRS roster in the applicable 2 November 2026 snapshot. For a non-VRS team, it is the five original registered starters. At least three players from the applicable reference roster must play the entirety of every official match.
+
+**Q: Can we change our roster?**  
+A: A maximum of two player changes in total is permitted after roster submission, subject to the time windows, VRS-core protections and administration approval in Section 2.4.
+
+**Q: Does using an already registered substitute count as a roster change?**  
+A: Simply fielding a substitute already listed on the approved roster does not count as a roster change. Every lineup must still satisfy the applicable three-of-five requirement.
+
+**Q: Can a player be substituted during a match?**  
+A: Only in a verifiable emergency and subject to administration approval.
+
+**Q: What happens if a team is late for a match?**  
+A: A 15-minute grace period applies. Failure to be ready results in a default loss for the match or, in a BO3, the map in question. After a map forfeit, teams have an additional 15 minutes to start the next map.
+
+**Q: What if a player disconnects?**  
+A: Pause where the platform allows, notify the opponent and administration immediately, and follow their instructions. A replay is not automatic.
+
+**Q: Can I stream my POV or cast a match?**  
+A: Player POV streaming is permitted only if administration is notified in advance and the mandatory 120-second broadcast delay is applied. Community broadcasting and co-streaming require prior approval from Green Pepper.
+
+**Q: How do I submit a protest?**  
+A: Use the official Green Pepper support channel and submit the match details and supporting evidence. The standard deadline is 24 hours after the match concludes unless a different deadline is announced.
+
+**Q: Will registration fees be refunded if the tournament is cancelled, does not reach 24 accepted teams or does not obtain its intended VRS status/alignment?**  
+A: Yes. The refund conditions in Section 1.3 apply. A team that voluntarily withdraws after its payment has been confirmed is not entitled to a refund, subject to the terms of this Rulebook and applicable law.
+
+**Q: Who makes the final decision on an issue not covered here?**  
+A: Green Pepper tournament administration, applying the principles of competitive integrity, consistency and fairness.
+
+---
+
+## Final Provisions
 
 11.1. By registering, every team and player confirms that they have read, understood and agree to follow this Rulebook.
 
