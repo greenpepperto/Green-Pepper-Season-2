@@ -3,8 +3,8 @@
 **Game:** Counter-Strike 2 (CS2)  
 **Region:** Europe  
 **Teams:** 24  
-**Format:** 4 VRS Direct Qualifiers + 5 × 4 GSL Groups + Play-In + 16-Team Double-Elimination Playoffs  
-**Match formats:** Group Stage BO3 · Play-In BO3 · Playoffs BO3 · Grand Final BO5  
+**Format:** 8 VRS Direct Qualifiers + 16-Team Swiss Stage + 16-Team Single-Elimination Playoffs  
+**Match formats:** Swiss Stage BO3 · Playoffs BO3 · Grand Final BO5  
 **Platform:** FACEIT  
 **Entry Fee:** €250 per team  
 **Prize Pool:** €5,000  
@@ -30,12 +30,12 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 3. [Tournament Format and Structure](#3-tournament-format-and-structure)
    - [3.1 Tournament Overview](#31-tournament-overview)
    - [3.2 VRS Direct Qualification](#32-vrs-direct-qualification)
-   - [3.3 Group Stage — GSL BO3](#33-group-stage--gsl-bo3)
-   - [3.4 Playoffs — 16-Team Double Elimination](#34-playoffs--16-team-double-elimination)
+   - [3.3 Swiss Stage — BO3](#33-swiss-stage--bo3)
+   - [3.4 Playoffs — 16-Team Single Elimination](#34-playoffs--16-team-single-elimination)
    - [3.5 Playoffs Seeding](#35-playoffs-seeding)
-4. [Ranking Third-Place Teams and Play-In](#4-ranking-third-place-teams-and-play-in)
-   - [4.1 Ranking the Five Third-Place Teams](#41-ranking-the-five-third-place-teams)
-   - [4.2 Play-In — Single Elimination BO3](#42-play-in--single-elimination-bo3)
+4. [Swiss Qualification and Playoffs Seeding](#4-swiss-qualification-and-playoffs-seeding)
+   - [4.1 Swiss Stage Pairing Rules](#41-swiss-stage-pairing-rules)
+   - [4.2 Swiss Qualification and Final Ties](#42-swiss-qualification-and-final-ties)
 5. [Online Match Rules](#5-online-match-rules)
    - [5.1 Platform Requirements](#51-platform-requirements)
    - [5.2 Anti-Cheat and Player Eligibility](#52-anti-cheat-and-player-eligibility)
@@ -160,7 +160,7 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 - **VRS-matched teams:** the five players on the team's matched official VRS roster in the applicable VRS snapshot used for Season 2.
 - **Other teams:** the five original starting players submitted in the team's accepted registration.
 
-2.2.2. Every team must field at least **three of the five players** from its applicable reference roster for the entirety of every official match, including the Group Stage, Play-In and Playoffs.
+2.2.2. Every team must field at least **three of the five players** from its applicable reference roster for the entirety of every official match, including the Swiss Stage and Playoffs.
 
 2.2.3. The qualifying three players may differ from match to match. Teams are not required to nominate the same three core players for every match.
 
@@ -206,66 +206,91 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 ### 3.1 Tournament Overview
 
-Green Pepper Season 2 features 24 teams:
+Green Pepper Season 2 features **24 teams**:
 
 | Qualification route | Teams |
 |---|---:|
-| VRS Direct Qualification | 4 |
-| Group Stage — top two from each group | 10 |
-| Play-In winners | 2 |
+| VRS Direct Qualification | 8 |
+| Swiss Stage Qualification | 8 |
 | **Playoffs total** | **16** |
 
 ### 3.2 VRS Direct Qualification
 
-3.2.1. The four highest-ranked eligible registered teams in the official **European VRS ranking**, using the snapshot date announced by Green Pepper, receive direct qualification to the Playoffs.
+3.2.1. The eight highest-ranked eligible registered teams in the official **European VRS ranking**, using the **2 November 2026 snapshot**, receive direct qualification to the Playoffs.
 
-3.2.2. VRS-qualified teams do not participate in the Group Stage.
+3.2.2. VRS-qualified teams do not participate in the Swiss Stage.
 
-3.2.3. The four VRS teams occupy Playoffs seeds 1–4, ordered by their position in the applicable European VRS snapshot. The highest-ranked team receives seed 1.
+3.2.3. The eight VRS teams occupy Playoffs seeds **1–8**, ordered by their position in the applicable European VRS snapshot. The highest-ranked team receives seed 1.
 
 3.2.4. A team's eligibility and ranking status are subject to applicable Valve rules and the tournament's published eligibility requirements.
 
 3.2.5. If a directly qualified team withdraws or becomes ineligible, the Organizer will determine a replacement under the published replacement policy and applicable Valve requirements.
 
-3.2.6. Direct qualification is determined by the published ranking criteria and the event's registration process; it is not an invitation to participate.
+3.2.6. Direct qualification is determined by the published ranking criteria and the event's open-registration process; it is not an invitation to participate.
 
-### 3.3 Group Stage — GSL BO3
+### 3.3 Swiss Stage — BO3
 
-3.3.1. The 20 remaining teams are divided into **five groups of four teams**, designated Groups A, B, C, D and E.
+3.3.1. The Swiss Stage consists of **16 teams**: the accepted and eligible teams that do not receive one of the eight direct Playoff places under Section 3.2.
 
-3.3.2. Each group uses the standard four-team GSL double-elimination format. **All Group Stage matches are BO3.**
+3.3.2. The Swiss Stage uses a Swiss system. Teams are paired against opponents with the same current win-loss record.
 
-3.3.3. Each group consists of five matches:
+3.3.3. A team qualifies for the Playoffs after **three match wins**.
 
-| Match | Fixture | Outcome |
-|---|---|---|
-| Opening Match 1 | Group seed 1 vs Group seed 4 | Winner advances in Upper Bracket |
-| Opening Match 2 | Group seed 2 vs Group seed 3 | Winner advances in Upper Bracket |
-| Winners' Match | Winners of Opening Matches 1 and 2 | Winner qualifies 1st |
-| Elimination Match | Losers of Opening Matches 1 and 2 | Loser finishes 4th and is eliminated |
-| Decider Match | Loser of Winners' Match vs winner of Elimination Match | Winner qualifies 2nd; loser finishes 3rd |
+3.3.4. A team is eliminated after **three match losses**.
 
-3.3.4. The first-place and second-place teams in each group qualify directly for the Playoffs.
+3.3.5. Every Swiss match is **Best-of-Three (BO3)**, including all advancement and elimination matches.
 
-3.3.5. The third-place team in each group enters the cross-group ranking procedure in Section 4.
+3.3.6. Teams must not play the same opponent twice in the Swiss Stage where a valid alternative pairing is available.
 
-3.3.6. The fourth-place team in each group is eliminated.
+3.3.7. Eight teams qualify from the Swiss Stage and join the eight teams directly qualified to the Playoffs in the Round of 16.
 
-3.3.7. Group seeding and the draw procedure will be published before the Group Stage. VRS ranking may be used as a seeding reference where applicable. The same draw principles will be applied consistently to all groups.
+3.3.8. Swiss pairings are determined by the current Swiss seed, match record and the pairing rules in Section 4.
 
-### 3.4 Playoffs — 16-Team Double Elimination
+3.3.9. Administration may make a necessary pairing adjustment to prevent a rematch, resolve an unavoidable bracket conflict or preserve competitive integrity. Any adjustment must be applied consistently.
 
-3.4.1. The Playoffs consist of 16 teams: four VRS direct qualifiers, ten Group Stage qualifiers and two Play-In winners.
+#### Initial Swiss Match-ups
 
-3.4.2. The Playoffs use a **Double-Elimination bracket**. A team is eliminated after its second Playoffs series loss.
+Swiss seeds 1–16 are assigned to the 16 teams competing in the Swiss Stage, in order of their pre-event seed after the eight direct Playoff qualifiers have been removed. The first-round match-ups are:
 
-3.4.3. All Upper Bracket and Lower Bracket matches are BO3.
+| Swiss Round 1 |
+|:--|
+| 1 vs. 9 |
+| 2 vs. 10 |
+| 3 vs. 11 |
+| 4 vs. 12 |
+| 5 vs. 13 |
+| 6 vs. 14 |
+| 7 vs. 15 |
+| 8 vs. 16 |
 
-3.4.4. The Grand Final is BO5.
+### 3.4 Playoffs — 16-Team Single Elimination
 
-3.4.5. Teams losing in the Upper Bracket move to the corresponding Lower Bracket round. Teams losing in the Lower Bracket are eliminated.
+3.4.1. The Playoffs consist of **16 teams**: eight VRS direct qualifiers and eight Swiss Stage qualifiers.
 
-3.4.6. The Grand Final is contested between the Upper Bracket winner and the Lower Bracket winner. The final match regulations will state whether a bracket reset or any other Grand Final advantage applies. This will be announced before the Playoffs begin.
+3.4.2. The Playoffs use a **Single-Elimination bracket**. A team is eliminated after one Playoff series loss.
+
+3.4.3. All Playoff matches are **Best-of-Three (BO3)**, excluding the Grand Final, which is **Best-of-Five (BO5)**.
+
+3.4.4. The Round of 16 opening matches are arranged as follows:
+
+| Round of 16 Match | Match-up | Quarter-final path |
+|:--|:--|:--|
+| R16-1 | Seed 1 vs. Seed 16 | Quarter-Final 1 |
+| R16-2 | Seed 4 vs. Seed 13 | Quarter-Final 1 |
+| R16-3 | Seed 5 vs. Seed 12 | Quarter-Final 2 |
+| R16-4 | Seed 8 vs. Seed 9 | Quarter-Final 2 |
+| R16-5 | Seed 7 vs. Seed 10 | Quarter-Final 3 |
+| R16-6 | Seed 6 vs. Seed 11 | Quarter-Final 3 |
+| R16-7 | Seed 3 vs. Seed 14 | Quarter-Final 4 |
+| R16-8 | Seed 2 vs. Seed 15 | Quarter-Final 4 |
+
+3.4.5. The bracket paths preserve the published seed structure. The two highest-seeded teams cannot meet before the Grand Final. There is no third-place decider match.
+
+3.4.6. Quarter-final winners advance to the semi-finals according to the published bracket, and the semi-final winners meet in the Grand Final.
+
+3.4.7. No team may be reseeded after the bracket has started except to correct a documented administrative error.
+
+3.4.8. The Playoffs remain subject to the roster-change limits and three-of-five reference-roster rule in Section 2.
 
 ### 3.5 Playoffs Seeding
 
@@ -273,60 +298,63 @@ Green Pepper Season 2 features 24 teams:
 
 | Seeds | Qualification |
 |---|---|
-| 1–4 | VRS direct qualifiers, ordered by European VRS ranking |
-| 5–9 | Five Group Stage winners |
-| 10–14 | Five Group Stage runners-up |
-| 15–16 | Play-In winners |
+| 1–8 | VRS direct qualifiers, ordered by European VRS ranking |
+| 9–16 | Swiss Stage qualifiers, ordered by Swiss qualification ranking |
 
-3.5.2. Within the Group Stage winners and runners-up categories, the Organizer will publish a consistent ordering method before the Playoffs. The method may consider the applicable VRS ranking and original Group Stage draw seed.
+3.5.2. Swiss qualifiers are ranked using the criteria in Section 4.2: qualification path (3-0, then 3-1, then 3-2), followed by initial Swiss Stage seed.
 
-3.5.3. Play-In winners will be ordered using their third-place ranking from Section 4.
-
-3.5.4. The complete Playoffs bracket and all seeds will be published before the first Playoffs match.
+3.5.3. The complete Playoffs bracket and all seeds will be published before the first Playoff match.
 
 ---
 
-## 4. Ranking Third-Place Teams and Play-In
+## 4. Swiss Qualification and Playoffs Seeding
 
-### 4.1 Ranking the Five Third-Place Teams
+### 4.1 Swiss Stage Pairing Rules
 
-4.1.1. The five third-place teams, one from each group, are compared to determine the four Play-In participants.
+4.1.1. After the initial round, teams are grouped by their current win-loss record.
 
-4.1.2. The following criteria apply in the order listed. The first criterion that separates teams determines their order:
+4.1.2. In Rounds 2 and 3, the highest-seeded team faces the lowest-seeded available opponent with the same record, provided the pairing does not create a rematch.
 
-1. **European VRS ranking:** the better position in the official European VRS snapshot announced for the tournament ranks higher. A lower numerical rank represents a better position.
-2. **Group Stage series record:** more series wins, then fewer series losses.
-3. **Map differential:** maps won minus maps lost across all Group Stage series.
-4. **Map win percentage:** maps won divided by maps played.
-5. **Round differential:** rounds won minus rounds lost across all maps played.
-6. **Round win percentage:** rounds won divided by rounds played.
-7. **Original Group Stage draw seed:** the higher original draw seed ranks higher.
-8. **Organizer-administered random draw:** if teams remain tied, the Organizer will conduct and record a random draw.
+4.1.3. For later rounds, when a record group contains six teams, administration selects the first pairing row below that does not create a rematch. Teams within the group are ordered by current seed.
 
-4.1.3. A team with an official European VRS ranking is ranked ahead of a team without a ranking. Teams without a published VRS position are treated as unranked for Criterion 1 and are compared using Criteria 2–8.
+| Priority | Match 1 | Match 2 | Match 3 |
+|:--:|:--:|:--:|:--:|
+| 1 | 1 vs. 6 | 2 vs. 5 | 3 vs. 4 |
+| 2 | 1 vs. 6 | 2 vs. 4 | 3 vs. 5 |
+| 3 | 1 vs. 5 | 2 vs. 6 | 3 vs. 4 |
+| 4 | 1 vs. 5 | 2 vs. 4 | 3 vs. 6 |
+| 5 | 1 vs. 4 | 2 vs. 6 | 3 vs. 5 |
+| 6 | 1 vs. 4 | 2 vs. 5 | 3 vs. 6 |
+| 7 | 1 vs. 6 | 2 vs. 3 | 4 vs. 5 |
+| 8 | 1 vs. 5 | 2 vs. 3 | 4 vs. 6 |
+| 9 | 1 vs. 3 | 2 vs. 6 | 4 vs. 5 |
+| 10 | 1 vs. 3 | 2 vs. 5 | 4 vs. 6 |
+| 11 | 1 vs. 4 | 2 vs. 3 | 5 vs. 6 |
+| 12 | 1 vs. 3 | 2 vs. 4 | 5 vs. 6 |
+| 13 | 1 vs. 2 | 3 vs. 6 | 4 vs. 5 |
+| 14 | 1 vs. 2 | 3 vs. 5 | 4 vs. 6 |
+| 15 | 1 vs. 2 | 3 vs. 4 | 5 vs. 6 |
 
-4.1.4. If the official VRS snapshot lists teams with the same ranking position, the next criterion is applied.
+4.1.4. If every listed pairing creates a rematch, administration may use the most equitable alternative pairing available and document the reason.
 
-4.1.5. The VRS snapshot date and source used for this comparison will be announced before the competition begins. The same snapshot must be used consistently for all five third-place teams.
+4.1.5. Teams are not permitted to choose their own Swiss opponents.
 
-4.1.6. The four highest-ranked third-place teams advance to the Play-In. The fifth-ranked third-place team is eliminated.
+### 4.2 Swiss Qualification and Final Ties
 
-### 4.2 Play-In — Single Elimination BO3
+4.2.1. A team with three wins qualifies immediately; a team with three losses is eliminated.
 
-4.2.1. The Play-In consists of the four highest-ranked third-place teams from the Group Stage.
+4.2.2. Swiss pairings are based on match record, not map or round differential.
 
-4.2.2. The Play-In is a Single-Elimination bracket with two BO3 semi-finals.
+4.2.3. Swiss qualifiers are ranked using these criteria, in order:
 
-| Match | Fixture |
-|---|---|
-| Semi-final 1 | 1st-ranked third-place team vs 4th-ranked third-place team |
-| Semi-final 2 | 2nd-ranked third-place team vs 3rd-ranked third-place team |
+1. Swiss record / qualification path: teams qualifying 3-0 rank ahead of teams qualifying 3-1, who rank ahead of teams qualifying 3-2.
+2. Initial Swiss Stage seed.
 
-4.2.3. The two winners qualify for the 16-team Playoffs and receive seeds 15–16, ordered by their third-place ranking from Section 4.1.
+4.2.4. If an administrative ruling changes a team's Swiss result or eligibility, the final Swiss qualification ranking is recalculated before the Playoff bracket is locked.
 
-4.2.4. The two losing teams are eliminated.
+4.2.5. If two or more teams' final Swiss positions remain tied under the published seeding criteria, administration will compare their initial Swiss seed.
 
----
+4.2.6. Administration may correct standings if a result is overturned, a forfeit is awarded, or a roster or integrity violation affects a team's eligibility.
 
 ## 5. Online Match Rules
 
@@ -710,16 +738,16 @@ Cheating, account sharing, stream sniping, match manipulation, harassment and ot
 A: Yes. Every player must use their own eligible FACEIT account and have FACEIT Anti-Cheat running for official matches.
 
 **Q: How does direct Playoff qualification work in Season 2?**  
-A: The four highest-ranked eligible European VRS teams among the accepted entrants qualify directly for the 16-team Playoffs, using the official **2 November 2026 European VRS snapshot** and subject to the roster and eligibility requirements in this Rulebook.
+A: The eight highest-ranked eligible European VRS teams among the accepted entrants qualify directly for the 16-team Playoffs, using the official **2 November 2026 European VRS snapshot** and subject to the roster and eligibility requirements in this Rulebook.
 
 **Q: What happens to teams that do not receive a direct Playoff place?**  
-A: The remaining 20 teams compete in five groups of four using a GSL double-elimination format. The top two teams in each group qualify directly for the Playoffs. The five third-place teams are ranked under Section 4; the top four enter the Play-In, and the Play-In winners take the final two Playoff places.
+A: The remaining 16 teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. The eight Swiss qualifiers join the eight VRS direct qualifiers in the 16-team Playoffs.
 
-**Q: How are the Group Stage matches played?**  
-A: All GSL Group Stage matches are best-of-three (BO3). Each group has opening matches, a Winners' Match, an Elimination Match and a Decider.
+**Q: How are Swiss Stage matches played?**  
+A: All Swiss matches are best-of-three (BO3). Teams are paired against opponents with the same current win-loss record, avoiding rematches where a valid alternative is available.
 
 **Q: What is the Playoff format?**  
-A: The 16-team Playoffs use a Double-Elimination bracket. Upper and Lower Bracket matches are BO3, and the Grand Final is BO5.
+A: The 16-team Playoffs use a Single-Elimination bracket. All matches are BO3 except the Grand Final, which is BO5.
 
 **Q: Can multiple teams from the same esports organization participate?**  
 A: No. Only one team per organization may participate in Green Pepper Season 2. Teams must disclose organizational affiliations, and administration may reject or disqualify teams where an organizational conflict is confirmed.
