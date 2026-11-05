@@ -20,7 +20,7 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 **European Online CS2 Tournament · 24 Teams · €250 Entry Fee per Team · €5,000 Prize Pool · FACEIT · FACEIT Anti-Cheat Required**
 
 > **One Season. One Champion.**  
-> Green Pepper Season 2 continues the Green Pepper competitive project with an open-registration European Counter-Strike 2 tournament. The format combines four direct VRS Playoff qualifiers, a BO3 GSL Group Stage, a Play-In for the best third-place teams and a 16-team Double-Elimination Playoff bracket.
+> Green Pepper Season 2 continues the Green Pepper competitive project with an open-registration European Counter-Strike 2 tournament. The format combines eight direct VRS Playoff qualifiers, a 16-team BO3 Swiss Stage and a 16-team Single-Elimination Playoff bracket.
 
 ---
 
@@ -53,10 +53,10 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 | Platform | **FACEIT** |
 | Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
 | Direct Playoff Qualification | **4 highest-ranked eligible European VRS teams** |
-| Group Stage | **20 teams — 5 groups of 4 — GSL BO3** |
-| Group Stage Qualification | **Top 2 in each group qualify directly for Playoffs** |
-| Play-In | **4 teams — Single Elimination BO3** |
-| Playoffs | **16 teams — Double Elimination** |
+| Swiss Stage | **16 teams — BO3 — 3 wins to qualify / 3 losses eliminated** |
+| Swiss Qualification | **8 teams qualify after 3 wins** |
+
+| Playoffs | **16 teams — Single Elimination · BO3** |
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
 | European VRS Snapshot | **2 November 2026** |
@@ -118,7 +118,7 @@ The full refund conditions and related provisions are set out in the [Rulebook](
 
 ### Roster Continuity
 
-Green Pepper uses a fixed five-player reference roster for roster-continuity checks. Teams must field at least **three of the five players** from their applicable reference roster for the entirety of every official match, including the Group Stage, Play-In and Playoffs.
+Green Pepper uses a fixed five-player reference roster for roster-continuity checks. Teams must field at least **three of the five players** from their applicable reference roster for the entirety of every official match, including the Swiss Stage and Playoffs.
 
 **VRS-matched teams**
 - The reference roster is the five-player roster matched to the team's official VRS roster in the applicable snapshot.
@@ -148,99 +148,82 @@ The [Rulebook](RULEBOOK.md) contains the full roster, eligibility and substituti
 
 ## Tournament Format
 
-Green Pepper Season 2 features **24 teams** and uses four competition stages before crowning the champion.
+Green Pepper Season 2 features **24 teams** and follows the Swiss Stage and Playoffs structure used in Season 1.
 
 | Stage | Teams | Format |
 |---|---:|---|
-| VRS Direct Qualification | 4 | Direct to Playoffs · Seeds 1–4 |
-| Group Stage | 20 | 5 Groups of 4 · GSL · BO3 |
-| Play-In | 4 | Single Elimination · BO3 |
-| Playoffs | 16 | Double Elimination · BO3 |
+| VRS Direct Qualification | 8 | Direct to Playoffs · Seeds 1–8 |
+| Swiss Stage | 16 | Swiss System · BO3 · 3 wins to qualify / 3 losses eliminated |
+| Playoffs | 16 | Single Elimination · BO3 |
 | Grand Final | 2 | BO5 |
 
 ### VRS Direct Qualification
 
-The four highest-ranked eligible teams in the official **European VRS snapshot dated 2 November 2026** qualify directly for the 16-team Playoffs.
+The eight highest-ranked eligible teams in the official **European VRS snapshot dated 2 November 2026** qualify directly for the 16-team Playoffs.
 
-- VRS-qualified teams do not participate in the Group Stage.
-- The four teams occupy Playoff seeds 1–4.
+- VRS-qualified teams do not participate in the Swiss Stage.
+- The eight teams occupy Playoff seeds 1–8, ordered by European VRS ranking.
 - The highest-ranked eligible team receives seed 1.
 - Eligibility is subject to applicable Valve requirements and the tournament's published rules.
 - Direct qualification is based on published ranking criteria among accepted entrants and is not an invitation.
 
-### Group Stage — GSL BO3
+### Swiss Stage — BO3
 
-The remaining **20 teams** are divided into **five groups of four teams**, designated Groups A, B, C, D and E.
+The remaining **16 teams** compete in a Swiss Stage.
 
-Each group follows a standard four-team GSL double-elimination format. **Every Group Stage match is BO3.** Each group consists of five matches:
+- Teams are paired against opponents with the same current win-loss record.
+- A team qualifies for the Playoffs after **three match wins**.
+- A team is eliminated after **three match losses**.
+- Every Swiss match is **BO3**, including advancement and elimination matches.
+- Teams should not face the same opponent twice where a valid alternative pairing is available.
+- Eight teams qualify from the Swiss Stage and join the eight VRS direct qualifiers in the Round of 16.
 
-| Match | Fixture | Outcome |
-|---|---|---|
-| Opening Match 1 | Group seed 1 vs Group seed 4 | Winner advances |
-| Opening Match 2 | Group seed 2 vs Group seed 3 | Winner advances |
-| Winners' Match | Winners of the opening matches | Winner qualifies 1st |
-| Elimination Match | Losers of the opening matches | Loser finishes 4th and is eliminated |
-| Decider Match | Loser of Winners' Match vs winner of Elimination Match | Winner qualifies 2nd; loser finishes 3rd |
+Initial Swiss Round 1 match-ups, based on Swiss seeds 1–16:
 
-Group qualification:
-- **1st and 2nd place** in each group qualify directly for the Playoffs.
-- **3rd place** in each group enters the cross-group ranking procedure for the Play-In.
-- **4th place** in each group is eliminated.
-
-Group seeding and the draw procedure will be published before the Group Stage.
-
-### Third-Place Tiebreak
-
-The five third-place teams are ranked using the following criteria, in order:
-
-1. **European VRS ranking** in the official event snapshot.
-2. Group Stage series record — more wins, then fewer losses.
-3. Map differential.
-4. Map win percentage.
-5. Round differential.
-6. Round win percentage.
-7. Original Group Stage draw seed.
-8. Organizer-administered random draw.
-
-Teams without a published European VRS ranking are treated as unranked for the first criterion and are compared using the remaining criteria. The same announced VRS snapshot is used consistently for all five third-place teams.
-
-The **four highest-ranked third-place teams** advance to the Play-In. The fifth-ranked team is eliminated.
-
-### Play-In — Single Elimination BO3
-
-The four eligible third-place teams compete in two BO3 semi-finals:
-
-| Match | Fixture |
+| Match | Pairing |
 |---|---|
-| Semi-final 1 | 1st-ranked third-place team vs 4th-ranked third-place team |
-| Semi-final 2 | 2nd-ranked third-place team vs 3rd-ranked third-place team |
+| 1 | 1 vs. 9 |
+| 2 | 2 vs. 10 |
+| 3 | 3 vs. 11 |
+| 4 | 4 vs. 12 |
+| 5 | 5 vs. 13 |
+| 6 | 6 vs. 14 |
+| 7 | 7 vs. 15 |
+| 8 | 8 vs. 16 |
 
-The two winners qualify for the 16-team Playoffs and receive seeds 15–16, ordered by their third-place ranking. The two losing teams are eliminated.
+After Round 1, teams are paired within their current win-loss record group. The Organizer will apply the published pairing rules and avoid rematches where a valid alternative is available.
 
-### Playoffs — 16-Team Double Elimination
+### Swiss Qualification and Playoff Seeding
+
+Swiss qualifiers are ranked using the following criteria, in order:
+
+1. Swiss qualification path: 3-0 teams rank ahead of 3-1 teams, who rank ahead of 3-2 teams.
+2. Initial Swiss Stage seed.
+
+The eight Swiss qualifiers receive Playoff seeds **9–16**, with the highest-ranked Swiss qualifier receiving seed 9. The eight VRS direct qualifiers occupy seeds **1–8**.
+
+### Playoffs — 16-Team Single Elimination
 
 The Playoffs feature:
-- 4 direct VRS qualifiers.
-- 5 Group Stage winners.
-- 5 Group Stage runners-up.
-- 2 Play-In winners.
+- 8 direct VRS qualifiers.
+- 8 Swiss Stage qualifiers.
 
-All Upper Bracket and Lower Bracket matches are **BO3**. The Grand Final is **BO5**.
+All Playoff matches are **BO3**, except the Grand Final, which is **BO5**. A team is eliminated after one Playoff series loss.
 
-A team is eliminated after its second Playoff series loss. The Grand Final is contested between the Upper Bracket winner and the Lower Bracket winner. Whether a bracket reset or another Grand Final advantage applies will be announced before the Playoffs begin.
+The Round of 16 match-ups are:
 
-#### Playoff Seeding
-
-| Seeds | Qualification |
+| Match | Match-up |
 |---|---|
-| 1–4 | VRS direct qualifiers, ordered by European VRS ranking |
-| 5–9 | Five Group Stage winners |
-| 10–14 | Five Group Stage runners-up |
-| 15–16 | Play-In winners, ordered by third-place ranking |
+| R16-1 | Seed 1 vs. Seed 16 |
+| R16-2 | Seed 4 vs. Seed 13 |
+| R16-3 | Seed 5 vs. Seed 12 |
+| R16-4 | Seed 8 vs. Seed 9 |
+| R16-5 | Seed 7 vs. Seed 10 |
+| R16-6 | Seed 6 vs. Seed 11 |
+| R16-7 | Seed 3 vs. Seed 14 |
+| R16-8 | Seed 2 vs. Seed 15 |
 
-The Organizer will publish the consistent ordering method for Group Stage winners and runners-up, together with the complete Playoff bracket, before the first Playoff match.
-
----
+The bracket is fixed before the first Playoff match. There is no third-place decider match.
 
 ## Competitive Platform and Anti-Cheat
 
@@ -361,7 +344,7 @@ The binding registration and Waiting List procedures are set out in the [Ruleboo
 
 ## Tournament Documents
 
-- [**RULEBOOK.md**](RULEBOOK.md) — Complete tournament rules, registration, VRS qualification, GSL Group Stage, third-place tiebreak, Play-In, Double-Elimination Playoffs, roster requirements, map vetoes, match procedures, penalties, protests and administration.
+- [**RULEBOOK.md**](RULEBOOK.md) — Complete tournament rules, registration, VRS qualification, Swiss Stage, Swiss qualification and seeding, Single-Elimination Playoffs, roster requirements, map vetoes, match procedures, penalties, protests and administration.
 
 Participants are responsible for reading the current official documents before competing. If this README summary conflicts with the Rulebook, the Rulebook takes precedence.
 
