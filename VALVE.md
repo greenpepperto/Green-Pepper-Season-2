@@ -26,10 +26,9 @@ This document summarizes the Valve Regional Standings (VRS)-related structure, e
 | European VRS Snapshot | 2 November 2026 |
 | Tournament Dates | To be announced |
 | Registration Period | To be announced |
-| Format | 4 VRS direct Playoff qualifiers + 20-team GSL Group Stage + Play-In + 16-team Double-Elimination Playoffs |
-| Group Stage | 5 groups of 4; all matches BO3 |
-| Play-In | 4 teams; Single Elimination BO3 |
-| Playoffs | 16 teams; Double Elimination; BO3 |
+| Format | 8 VRS direct Playoff qualifiers + 16-team BO3 Swiss Stage + 16-team Single-Elimination Playoffs |
+| Swiss Stage | 16 teams; Swiss system; all matches BO3 |
+| Playoffs | 16 teams; Single Elimination; BO3 |
 | Grand Final | BO5; date and time to be announced |
 
 All matches are played online. There is no LAN venue or physical attendance requirement.
@@ -44,10 +43,10 @@ Green Pepper Season 2 is designed around **open registration** for eligible Euro
 - The tournament is limited to 24 accepted teams.
 - Registration is complete only after all required team and player details have been submitted, the Organizer has accepted the team and payment has been confirmed.
 - The entry fee is **€250 per team**.
-- The four highest-ranked eligible teams in the official European VRS snapshot receive direct qualification to the Playoffs.
-- The remaining 20 teams compete in five four-team GSL groups.
-- The top two teams in each group qualify directly for the Playoffs.
-- The five third-place teams are ranked under the published VRS-first tiebreak procedure. The top four enter the Play-In, and the two Play-In winners complete the 16-team Playoff field.
+- The eight highest-ranked eligible teams in the official European VRS snapshot receive direct qualification to the Playoffs.
+- The remaining 16 teams compete in the BO3 Swiss Stage.
+- A team qualifies for the Playoffs after three match wins and is eliminated after three match losses.
+- The eight Swiss qualifiers join the eight VRS direct qualifiers to complete the 16-team Playoff field.
 
 VRS ranking does not remove a team's obligation to complete registration, pay the entry fee, meet roster requirements and comply with the Rulebook.
 
@@ -69,18 +68,18 @@ The full conditions are set out in Section 1.3 of the [Rulebook](RULEBOOK.md).
 
 The published VRS reference for Season 2 is the official **European VRS snapshot dated 2 November 2026**.
 
-Four teams receive direct qualification to the 16-team Playoffs:
+Eight teams receive direct qualification to the 16-team Playoffs:
 
-1. The four highest-ranked eligible European VRS teams among accepted and registered entrants qualify directly.
+1. The eight highest-ranked eligible European VRS teams among accepted and registered entrants qualify directly.
 2. The teams are ordered by their position in the applicable European VRS snapshot.
-3. The highest-ranked eligible team receives Playoff seed 1; the next receives seed 2, and so on through seed 4.
+3. The highest-ranked eligible team receives Playoff seed 1; the next receives seed 2, and so on through seed 8.
 4. Teams must meet the event's registration, payment, roster and eligibility requirements.
 5. If a directly qualified team withdraws or becomes ineligible, a replacement is determined under the published replacement policy and applicable requirements.
 6. Changes to the published VRS ranking after the fixed snapshot date do not alter a procedure expressly tied to the 2 November 2026 snapshot.
 
 Direct Playoff qualification is a ranking and format outcome within an open-registration event. It is **not an invitation** to enter the tournament.
 
-**Season 2 does not use the Season 1 eight-direct-qualifier structure or its six-VRS-team fallback based on HLTV ranking and FACEIT average Elo.** The Season 2 format has four direct VRS places. Any proposed change must be formally approved by the Organizer, checked against applicable requirements and published in the Rulebook before implementation.
+Season 2 retains the standard Season 1 structure of eight direct VRS Playoff qualifiers and 16 teams in the Swiss Stage. Season 2 does not automatically apply Season 1's six-VRS-team contingency involving HLTV ranking and FACEIT average Elo; any such fallback would require a separate formal announcement and confirmation of applicable requirements.
 
 ---
 
@@ -92,7 +91,7 @@ Detailed roster and eligibility requirements are binding as written in the [Rule
 
 - A team is considered VRS-matched when at least three of its five registered starting players match the same official five-player VRS roster in the applicable snapshot.
 - Substitutes are not counted for the initial VRS-matching decision.
-- A VRS-matched team must field at least three players from that matched five-player VRS roster throughout every official match, including Group Stage, Play-In and Playoffs.
+- A VRS-matched team must field at least three players from that matched five-player VRS roster throughout every official match, including Swiss Stage and Playoffs.
 - The team must maintain at least three players from the matched VRS roster on its official tournament roster throughout the event. Falling below the required number may result in disqualification or loss of VRS qualification, subject to applicable requirements.
 
 ### Teams without a VRS match
@@ -113,26 +112,21 @@ The Rulebook is the controlling source for detailed roster, substitute and eligi
 
 ---
 
-## 5. Third-Place Ranking and Play-In Qualification
+## 5. Swiss Stage and Qualification
 
-Season 2 has five GSL groups. Each group produces one third-place team. These five teams are compared to determine the four Play-In participants.
+The 16 teams that do not receive one of the eight direct VRS Playoff places compete in the Swiss Stage.
 
-The criteria are applied in this order:
+- Teams are paired against opponents with the same current win-loss record.
+- A team qualifies for the Playoffs after **three match wins**.
+- A team is eliminated after **three match losses**.
+- Every Swiss match is **BO3**, including advancement and elimination matches.
+- Teams should not face the same opponent twice where a valid alternative pairing is available.
+- Eight teams qualify from the Swiss Stage and join the eight VRS direct qualifiers in the Round of 16.
 
-1. **European VRS ranking** in the official event snapshot.
-2. Group Stage series record — more wins, then fewer losses.
-3. Map differential.
-4. Map win percentage.
-5. Round differential.
-6. Round win percentage.
-7. Original Group Stage draw seed.
-8. Organizer-administered random draw.
+The eight Swiss qualifiers are ranked for Playoff seeds 9–16 using these criteria, in order:
 
-A team without a published European VRS ranking is treated as unranked for the first criterion and compared using the remaining criteria. The same snapshot must be used consistently for all five third-place teams.
-
-The four highest-ranked third-place teams advance to the Play-In. The fifth-ranked team is eliminated. The two Play-In winners qualify for the Playoffs as seeds 15–16, ordered by their third-place ranking.
-
-This is a Season 2-specific qualification process and replaces Season 1's Swiss qualification structure.
+1. Swiss qualification path: 3-0 teams rank ahead of 3-1 teams, who rank ahead of 3-2 teams.
+2. Initial Swiss Stage seed.
 
 ---
 
@@ -140,62 +134,60 @@ This is a Season 2-specific qualification process and replaces Season 1's Swiss 
 
 ### VRS Direct Playoff Qualifiers
 
-- **4 teams** qualify directly for the Playoffs.
-- Qualification is based on the four highest-ranked eligible European VRS teams among accepted entrants.
-- The direct qualifiers occupy Playoff seeds **1–4**.
-- They do not participate in the Group Stage.
+- **8 teams** qualify directly for the Playoffs.
+- Qualification is based on the eight highest-ranked eligible European VRS teams among accepted entrants.
+- The direct qualifiers occupy Playoff seeds **1–8**, ordered by European VRS ranking.
+- They do not participate in the Swiss Stage.
 
-### Group Stage
+### Swiss Stage
 
-- **20 teams** are divided into **five groups of four**.
-- Each group uses the standard four-team GSL double-elimination format.
-- Every Group Stage match is **BO3**.
-- Each group consists of two opening matches, a Winners' Match, an Elimination Match and a Decider Match.
-- The first- and second-place teams from each group qualify directly for the Playoffs.
-- Third-place teams enter the cross-group ranking process.
-- Fourth-place teams are eliminated.
-
-### Play-In
-
-- **4 teams**: the four highest-ranked third-place teams.
-- Two BO3 Single-Elimination semi-finals.
-- The two winners qualify for the Playoffs.
+- **16 teams** compete in the Swiss Stage.
+- All matches are **BO3**.
+- Three wins qualify a team for the Playoffs; three losses eliminate a team.
+- The eight Swiss qualifiers receive Playoff seeds **9–16**, ranked by qualification path (3-0, then 3-1, then 3-2) and initial Swiss seed.
 
 ### Playoffs
 
 The 16-team Playoffs consist of:
-- 4 VRS direct qualifiers.
-- 5 Group Stage winners.
-- 5 Group Stage runners-up.
-- 2 Play-In winners.
+- 8 VRS direct qualifiers.
+- 8 Swiss Stage qualifiers.
 
-The Playoffs use a Double-Elimination bracket. All Upper Bracket and Lower Bracket matches are BO3. The Grand Final is BO5. A team is eliminated after its second Playoff series loss.
+The Playoffs use a **Single-Elimination bracket**. All Playoff matches are BO3, except the Grand Final, which is BO5. A team is eliminated after one Playoff series loss.
 
-The Grand Final bracket-reset procedure or any other Upper Bracket advantage will be specified in the final event regulations and announced before the Playoffs begin.
+The Round of 16 match-ups are:
+
+| Match | Match-up |
+|---|---|
+| R16-1 | Seed 1 vs. Seed 16 |
+| R16-2 | Seed 4 vs. Seed 13 |
+| R16-3 | Seed 5 vs. Seed 12 |
+| R16-4 | Seed 8 vs. Seed 9 |
+| R16-5 | Seed 7 vs. Seed 10 |
+| R16-6 | Seed 6 vs. Seed 11 |
+| R16-7 | Seed 3 vs. Seed 14 |
+| R16-8 | Seed 2 vs. Seed 15 |
+
+There is no third-place decider match.
 
 ### Playoff Seeding
 
 | Seeds | Qualification |
 |---|---|
-| 1–4 | VRS direct qualifiers, ordered by European VRS ranking |
-| 5–9 | Five Group Stage winners |
-| 10–14 | Five Group Stage runners-up |
-| 15–16 | Play-In winners, ordered by third-place ranking |
-
-The ordering method within the Group Stage winner and runner-up categories will be published before the Playoffs.
+| 1–8 | VRS direct qualifiers, ordered by European VRS ranking |
+| 9–16 | Swiss Stage qualifiers, ordered by Swiss qualification ranking |
 
 ---
 
 ## 7. Ranking and Seeding for Teams Without a VRS Position
 
-The VRS snapshot is the primary ranking reference only where the Rulebook specifies it. Teams without a VRS position remain eligible to register if they satisfy the event's requirements.
+The VRS snapshot is the primary ranking reference for direct Playoff qualification and roster matching. Teams without a VRS position remain eligible to register if they satisfy the event's requirements.
 
-- A team without a VRS ranking cannot receive one of the four VRS direct Playoff places on the basis of an absent VRS position.
-- Non-VRS teams may qualify through the Group Stage and Play-In.
-- For the cross-group third-place comparison, teams without a published VRS position are treated as unranked for the VRS criterion and compared through the remaining published criteria.
-- Any additional group draw or playoff seeding procedure must follow the method published in the Rulebook before it is applied.
+- A team without a VRS ranking cannot receive one of the eight VRS direct Playoff places on the basis of an absent VRS position.
+- Non-VRS teams may qualify through the Swiss Stage.
+- Swiss qualifiers are ranked by qualification path (3-0, then 3-1, then 3-2) and initial Swiss Stage seed.
+- Any additional pre-event seed or pairing procedure must follow the method published in the Rulebook before it is applied.
 
-No Season 1 HLTV World Ranking or FACEIT Average Elo fallback is automatically carried into Season 2.
+Season 2 uses eight direct VRS places and does not automatically apply the Season 1 six-VRS-team fallback based on HLTV ranking and FACEIT average Elo.
 
 ---
 
@@ -209,10 +201,10 @@ Season 2 registration dates and tournament dates have not yet been announced.
 | European VRS snapshot | 2 November 2026 |
 | Registration closes | To be announced |
 | Roster, payment and eligibility verification | To be announced |
-| Four VRS direct qualifiers announced | To be announced |
-| Group Stage draw and schedule published | To be announced |
-| Group Stage begins | To be announced |
-| Play-In | To be announced |
+| Eight VRS direct qualifiers announced | To be announced |
+| Swiss Stage seeding and schedule published | To be announced |
+| Swiss Stage begins | To be announced |
+
 | Playoffs | To be announced |
 | Grand Final | To be announced |
 
