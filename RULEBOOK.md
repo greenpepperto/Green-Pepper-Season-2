@@ -106,7 +106,7 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.2.9. **Initial selection and contact:** On the date and time announced by the Organizer, Green Pepper will conduct an initial selection and contact process, aiming to contact up to **20 teams** from Open Registration. Priority will be given to the highest-ranked eligible VRS teams using the official VRS publication specified in Section 1.1.
 
-1.2.10. If fewer than 20 eligible VRS-ranked teams have registered by the initial selection, all registered eligible VRS-ranked teams will be contacted first. Any remaining contacts, up to a maximum of 20 teams, will be allocated to non-VRS-ranked teams in order of completed registration.
+1.2.10. If fewer than 20 eligible VRS-ranked teams have registered by the initial selection, all registered eligible VRS-matched teams will be contacted first. If no further eligible VRS-matched teams are available, remaining contacts, up to a maximum of 20 teams, will be allocated to eligible non-VRS teams in order of the **HLTV World Ranking dated 2 November 2026**. If no eligible candidate has an HLTV ranking, the Organizer may use average FACEIT Elo, followed by completed registration time as the final tie-break.
 
 1.2.11. If fewer than 20 teams in total have registered by the announced initial selection date and time, all registered teams will be contacted.
 
