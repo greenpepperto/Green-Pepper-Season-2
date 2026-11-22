@@ -4,7 +4,7 @@
 > **Platform:** FACEIT  
 > **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players  
 > **Tournament dates:** 13–28 February 2027  
-**Schedule status:** Tournament dates confirmed; registration dates, match days, match windows and exact start times are **to be announced** by Green Pepper administration.
+**Schedule status:** Tournament dates and registration calendar confirmed; individual match days, match windows and exact start times are **to be announced** by Green Pepper administration.
 
 ---
 
@@ -45,7 +45,7 @@ The following registration and pre-tournament milestones form the planned public
 | VRS eligibility and roster verification | **5 January 2027** |
 | VRS Priority Teams announcement | **7 January 2027** |
 | Final participating teams announcement | **10 January 2027** |
-| Roster and payment finalisation | **13 January 2027** |
+
 | Eight VRS direct Playoff qualifiers confirmed | **7 January 2027** |
 | Swiss Stage seeds and pairings published | To be announced |
 | Full match schedule published | To be announced |
@@ -214,7 +214,7 @@ The final schedule will identify each match's date, start time, match room, stag
 
 ## 6. VRS Seeding and Eligibility
 
-Season 2 uses the official **2 November 2026 European VRS snapshot** for direct Playoff qualification and VRS roster matching.
+Season 2 uses the official **4 January 2027 European VRS snapshot** for direct Playoff qualification and VRS roster matching.
 
 - Eight highest-ranked eligible accepted teams receive direct Playoff qualification.
 - A team must satisfy the applicable VRS matching and roster-continuity rules.
@@ -250,10 +250,10 @@ By entering Green Pepper Season 2, all teams agree to be bound by this schedulin
 
 ## 9. Important Notes
 
-1. The overall tournament period is confirmed as **13–28 February 2027**. Registration deadlines, individual match dates, match windows and start times remain **to be announced**.
+1. The overall tournament period is confirmed as **13–28 February 2027**. Open registration runs from **1 December 2026** until **4 January 2027 at 23:59 CET**, unless all 24 places are filled earlier. Individual match dates, match windows and start times remain **to be announced**.
 2. The event is online. No physical venue, LAN attendance or on-site check-in applies.
 3. The official platform is FACEIT and FACEIT Anti-Cheat is mandatory.
-4. The European VRS snapshot date is 2 November 2026.
+4. The European VRS snapshot date is **4 January 2027**.
 5. The eight highest-ranked eligible European VRS teams qualify directly for the Playoffs.
 6. All Swiss Stage matches are BO3. Playoff matches are BO3, except the BO5 Grand Final.
 7. Eight teams qualify from the Swiss Stage after reaching three wins; teams are eliminated after three losses.
