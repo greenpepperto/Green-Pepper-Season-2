@@ -11,9 +11,9 @@
 **VRS Snapshot:** 4 January 2027  
 **Map Pool:** de_ancient · de_anubis · de_cache · de_dust2 · de_inferno · de_mirage · de_nuke  
 **Tournament Dates:** 13–28 February 2027.
-**Registration window:** To be announced.
+**Registration window:** 1 December 2026 – 4 January 2027 (23:59 CET).
 
-This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Green Pepper Season 2 retains the Season 1 entry fee, prize pool, FACEIT competition platform, VRS snapshot date and map pool. The tournament will run from **13 to 28 February 2027**. Registration dates and the detailed match schedule will be announced separately.
+This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Green Pepper Season 2 retains the Season 1 entry fee, prize pool, FACEIT competition platform, VRS snapshot date and map pool. The tournament will run from **13 to 28 February 2027**. Open registration runs from **1 December 2026** to **4 January 2027 at 23:59 CET**, unless all 24 places are filled earlier. The public announcement and verification milestones are listed in [SCHEDULE.md](SCHEDULE.md); detailed match dates and start times will be announced separately.
 
 ---
 
