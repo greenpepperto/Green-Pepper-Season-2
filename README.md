@@ -59,10 +59,10 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 | Playoffs | **16 teams — Single Elimination · BO3** |
 | Playoff Matches | **BO3** |
 | Grand Final | **BO5** |
-| European VRS Snapshot | **2 November 2026** |
+| European VRS Snapshot | **4 January 2027** |
 | Map Pool | **7 maps** |
 | Dates | **13–28 February 2027** |
-| Registration | **To be announced** |
+| Registration | **1 December 2026 – 4 January 2027** |
 
 Green Pepper Season 2 will take place from **13 to 28 February 2027**. Open registration runs from **1 December 2026** until **4 January 2027**. The official European VRS snapshot dated **4 January 2027** will determine the 12 VRS Priority Registration Places and the eight direct Playoff qualifiers, subject to the Rulebook. Match times and remaining event details will be confirmed through official Green Pepper channels.
 
