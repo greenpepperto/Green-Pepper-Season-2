@@ -23,9 +23,9 @@ This document summarizes the Valve Regional Standings (VRS)-related structure, e
 | Match Platform | FACEIT |
 | Anti-Cheat | FACEIT Anti-Cheat mandatory |
 | Total Prize Pool | €5,000 |
-| European VRS Snapshot | 2 November 2026 |
+| European VRS Snapshot | 4 January 2027 |
 | Tournament Dates | **13–28 February 2027** |
-| Registration Period | To be announced |
+| Registration Period | **1 December 2026 – 4 January 2027** |
 | Format | 8 VRS direct Playoff qualifiers + 16-team BO3 Swiss Stage + 16-team Single-Elimination Playoffs |
 | Swiss Stage | 16 teams; Swiss system; all matches BO3 |
 | Playoffs | 16 teams; Single Elimination; BO3 |
@@ -66,7 +66,7 @@ The full conditions are set out in Section 1.3 of the [Rulebook](RULEBOOK.md).
 
 ## 3. VRS Snapshot and Direct Playoff Qualification
 
-The published VRS reference for Season 2 is the official **European VRS snapshot dated 2 November 2026**.
+The published VRS reference for Season 2 is the official **European VRS snapshot dated 4 January 2027**.
 
 Eight teams receive direct qualification to the 16-team Playoffs:
 
@@ -75,7 +75,7 @@ Eight teams receive direct qualification to the 16-team Playoffs:
 3. The highest-ranked eligible team receives Playoff seed 1; the next receives seed 2, and so on through seed 8.
 4. Teams must meet the event's registration, payment, roster and eligibility requirements.
 5. If a directly qualified team withdraws or becomes ineligible, a replacement is determined under the published replacement policy and applicable requirements.
-6. Changes to the published VRS ranking after the fixed snapshot date do not alter a procedure expressly tied to the 2 November 2026 snapshot.
+6. Changes to the published VRS ranking after the fixed snapshot date do not alter a procedure expressly tied to the 4 January 2027 snapshot.
 
 Direct Playoff qualification is a ranking and format outcome within an open-registration event. It is **not an invitation** to enter the tournament.
 
@@ -193,12 +193,12 @@ Season 2 uses eight direct VRS places and does not automatically apply the Seaso
 
 ## 8. Registration, Dates and Schedule
 
-Season 2 registration dates and tournament dates have not yet been announced.
+Season 2 registration opens on **1 December 2026** and closes on **4 January 2027 at 23:59 CET**, unless all 24 places are filled earlier. The tournament runs from **13–28 February 2027**.
 
 | Milestone | Date |
 |---|---|
 | Registration opens | To be announced |
-| European VRS snapshot | 2 November 2026 |
+| European VRS snapshot | 4 January 2027 |
 | Registration closes | To be announced |
 | Roster, payment and eligibility verification | To be announced |
 | Eight VRS direct qualifiers announced | To be announced |
@@ -254,4 +254,4 @@ Green Pepper Season 2 is organized independently and is **not affiliated with, e
 **GREEN PEPPER SEASON 2**  
 *Bring the Heat. Own the Game.*
 
-Last Update: 04/11/2026
+Last Update: 22/11/2026
