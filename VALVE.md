@@ -79,8 +79,7 @@ Eight teams receive direct qualification to the 16-team Playoffs:
 
 Direct Playoff qualification is a ranking and format outcome within an open-registration event. It is **not an invitation** to enter the tournament.
 
-Season 2 retains the standard Season 1 structure of eight direct VRS Playoff qualifiers and 16 teams in the Swiss Stage. Season 2 does not automatically apply Season 1's six-VRS-team contingency involving HLTV ranking and FACEIT average Elo; any such fallback would require a separate formal announcement and confirmation of applicable requirements.
-
+Season 2 retains the standard Season 1 structure of eight direct VRS Playoff qualifiers and 16 teams in the Swiss Stage. 
 ---
 
 ## 4. VRS Matching and Roster Continuity
