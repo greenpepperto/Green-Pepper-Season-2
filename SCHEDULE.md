@@ -231,7 +231,7 @@ By entering Green Pepper Season 2, all teams agree to be bound by this schedulin
 
 ## 9. Important Notes
 
-1. This document is a scheduling framework; all Season 2 dates, registration deadlines, match windows and start times remain **to be announced**.
+1. The overall tournament period is confirmed as **13–28 February 2027**. Registration deadlines, individual match dates, match windows and start times remain **to be announced**.
 2. The event is online. No physical venue, LAN attendance or on-site check-in applies.
 3. The official platform is FACEIT and FACEIT Anti-Cheat is mandatory.
 4. The European VRS snapshot date is 2 November 2026.
