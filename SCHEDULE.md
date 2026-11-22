@@ -21,10 +21,10 @@
 | Prize pool | €5,000 |
 | Match platform | FACEIT |
 | Anti-cheat | FACEIT Anti-Cheat required |
-| European VRS snapshot | 2 November 2026 |
+| European VRS snapshot | **4 January 2027** |
 | Tournament dates | **13–28 February 2027** |
-| Registration opening | To be announced |
-| Registration deadline | To be announced |
+| Registration opening | **1 December 2026** |
+| Registration deadline | **4 January 2027 · 23:59 CET** (or earlier if capacity is reached) |
 | Match time zone | To be announced in the official schedule |
 
 All matches are played online. There is no LAN venue, on-site check-in or physical attendance requirement.
@@ -35,15 +35,18 @@ Green Pepper Season 2 will run from **13 to 28 February 2027**. The exact stage 
 
 ## 2. Registration and Pre-Tournament Timeline
 
-The following milestones will be confirmed once the registration calendar is announced:
+The following registration and pre-tournament milestones form the planned public calendar:
 
 | Milestone | Date |
 |---|---|
-| Registration opens | To be announced |
-| Official European VRS snapshot | 2 November 2026 |
-| Registration closes | To be announced |
-| Roster, payment and eligibility verification | To be announced |
-| Eight VRS direct Playoff qualifiers confirmed | To be announced |
+| Registration opens | **1 December 2026** |
+| Official European VRS snapshot | **4 January 2027** |
+| Registration closes | **4 January 2027 · 23:59 CET** (or earlier if capacity is reached) |
+| VRS eligibility and roster verification | **5 January 2027** |
+| VRS Priority Teams announcement | **7 January 2027** |
+| Final participating teams announcement | **10 January 2027** |
+| Roster and payment finalisation | **13 January 2027** |
+| Eight VRS direct Playoff qualifiers confirmed | **7 January 2027** |
 | Swiss Stage seeds and pairings published | To be announced |
 | Full match schedule published | To be announced |
 | Tournament begins | **13 February 2027** |
@@ -51,6 +54,22 @@ The following milestones will be confirmed once the registration calendar is ann
 Registration may close earlier than the announced deadline if all 24 places have been filled. Registration is only complete after all required team and player information has been submitted, the Organizer has accepted the team and the €250 entry fee has been confirmed.
 
 The entry fee and refund conditions are governed by the [Rulebook](RULEBOOK.md). In summary, confirmed entry fees are non-refundable when a team voluntarily withdraws. All teams that have paid receive a full refund if the Organizer cancels the event, the tournament fails to reach 24 accepted teams, or the intended VRS status/alignment required to proceed as advertised is not obtained. Any one of these conditions triggers the full refund guarantee.
+
+---
+
+## 2.1 Public Announcement Calendar
+
+| Date | Announcement / Milestone | Details |
+|---|---|---|
+| **1 December 2026** | Official Announcement & Registrations Open | Season 2 reveal and opening of the registration period |
+| **8 December 2026** | Registration Process & Eligibility | Registration instructions, 12+12 allocation and eligibility overview |
+| **16 December 2026** | Official Rulebook | Publication of the binding tournament regulations |
+| **27 December 2026** | Additional Information | FACEIT Anti-Cheat, roster requirements, participation requirements and event details |
+| **4 January 2027** | Registration Deadline & VRS Snapshot | Registrations close at 23:59 CET; official European VRS snapshot reference date |
+| **5 January 2027** | VRS Verification | VRS eligibility and roster matching checks |
+| **7 January 2027** | VRS Priority Teams | Announcement of the 12 VRS-priority registration selections and direct VRS Playoff qualifiers, subject to eligibility and accepted entries |
+| **10 January 2027** | Final Participating Teams | Announcement of the confirmed 24-team field, subject to all places being filled and payments confirmed |
+| **13 January 2027** | Roster & Payment Finalisation | Final administrative checks and waiting-list closure |
 
 ---
 
@@ -68,7 +87,7 @@ Green Pepper Season 2 features 24 teams and follows the Swiss Stage and Playoffs
 ### 3.1 VRS Direct Playoff Qualification
 
 - Eight highest-ranked eligible teams in the official European VRS snapshot qualify directly for the Playoffs.
-- The snapshot date used for Season 2 is **2 November 2026**.
+- The snapshot date used for Season 2 is **4 January 2027**.
 - Direct qualifiers occupy Playoff seeds **1–8**, ordered by their European VRS ranking.
 - Direct qualifiers do not participate in the Swiss Stage.
 - Teams must still complete registration, payment, roster and eligibility requirements.
@@ -250,4 +269,4 @@ See [README.md](README.md) for the tournament overview and [RULEBOOK.md](RULEBOO
 
 Official channels: [Website](https://www.playgreenpepper.com/) · [X @GreenPepperTO](https://x.com/GreenPepperTO)
 
-Last Update: 04/11/2026
+Last Update: 22/11/2026
