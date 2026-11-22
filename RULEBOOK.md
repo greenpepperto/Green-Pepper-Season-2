@@ -10,9 +10,10 @@
 **Prize Pool:** €5,000  
 **VRS Snapshot:** 2 November 2026  
 **Map Pool:** de_ancient · de_anubis · de_cache · de_dust2 · de_inferno · de_mirage · de_nuke  
-**Dates and registration window:** To be announced.
+**Tournament Dates:** 13–28 February 2027.
+**Registration window:** To be announced.
 
-This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Green Pepper Season 2 retains the Season 1 entry fee, prize pool, FACEIT competition platform, VRS snapshot date and map pool. Season 2 dates and registration window will be announced separately.
+This Rulebook carries forward the core roster, integrity, online-match, broadcast, conduct and administration principles used for Green Pepper Season 1, adapted to the Green Pepper Season 2 format. Green Pepper Season 2 retains the Season 1 entry fee, prize pool, FACEIT competition platform, VRS snapshot date and map pool. The tournament will run from **13 to 28 February 2027**. Registration dates and the detailed match schedule will be announced separately.
 
 ---
 
@@ -98,7 +99,7 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.2.5. False, incomplete or misleading registration information may result in rejection, loss of a place, a match forfeit or disqualification.
 
-1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. Registration deadlines, payment confirmation and Waiting List procedures will be announced separately.
+1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. The tournament dates are **13–28 February 2027**. Registration deadlines, payment confirmation and Waiting List procedures will be announced separately.
 
 1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team in accordance with the allocation and replacement priority rules in Sections 1.2.13–1.2.15. A place is not guaranteed until the replacement has been formally confirmed.
 
