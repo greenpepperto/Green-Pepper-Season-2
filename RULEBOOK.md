@@ -8,7 +8,7 @@
 **Platform:** FACEIT  
 **Entry Fee:** €250 per team  
 **Prize Pool:** €5,000  
-**VRS Snapshot:** 2 November 2026  
+**VRS Snapshot:** 4 January 2027  
 **Map Pool:** de_ancient · de_anubis · de_cache · de_dust2 · de_inferno · de_mirage · de_nuke  
 **Tournament Dates:** 13–28 February 2027.
 **Registration window:** To be announced.
@@ -85,7 +85,7 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.1.5. The official competition platform is **FACEIT**. All official matches, match rooms, results and standings will use the Green Pepper Season 2 FACEIT tournament infrastructure.
 
-1.1.6. The official VRS ranking reference for Season 2 is the **2 November 2026 European VRS snapshot**. This snapshot is used for direct Playoff qualification, VRS roster matching and any other ranking procedure expressly stated in this Rulebook. VRS status and alignment remain subject to applicable Valve requirements and confirmation.
+1.1.6. The official VRS ranking reference for Season 2 is the **4 January 2027 European VRS snapshot**. This snapshot is used for direct Playoff qualification, VRS roster matching and any other ranking procedure expressly stated in this Rulebook. VRS status and alignment remain subject to applicable Valve requirements and confirmation.
 
 ### 1.2 Registration
 
@@ -99,13 +99,13 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.2.5. False, incomplete or misleading registration information may result in rejection, loss of a place, a match forfeit or disqualification.
 
-1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. The tournament dates are **13–28 February 2027**. Registration deadlines, payment confirmation and Waiting List procedures will be announced separately.
+1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. The tournament dates are **13–28 February 2027**. Open registration runs from **1 December 2026** to **4 January 2027**, unless all 24 places are filled earlier. The selection and verification milestones are published in [SCHEDULE.md](SCHEDULE.md).
 
 1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team in accordance with the allocation and replacement priority rules in Sections 1.2.13–1.2.15. A place is not guaranteed until the replacement has been formally confirmed.
 
-1.2.8. **Open Registration and opening date:** Green Pepper Season 2 will use an open-registration process. The registration opening date and time will be announced through the official Green Pepper communication channels.
+1.2.8. **Open Registration and opening date:** Green Pepper Season 2 uses an open-registration process. Registration opens on **1 December 2026**. The registration deadline is **4 January 2027 at 23:59 CET**, unless all 24 places are filled earlier.
 
-1.2.9. **Initial selection and contact:** On the date and time announced by the Organizer, Green Pepper will conduct an initial selection and contact process for up to **12 VRS Priority Places**. Eligible VRS-matched teams will be ranked by their position in the official European VRS snapshot specified in Section 1.1, with the highest-ranked team contacted first.
+1.2.9. **Initial selection and contact:** Following the official **4 January 2027 European VRS snapshot**, Green Pepper will verify eligibility and conduct the initial selection and contact process for up to **12 VRS Priority Places**. VRS eligibility and roster verification is scheduled for **5 January 2027**, with the VRS Priority Teams announcement scheduled for **7 January 2027**. Eligible VRS-matched teams will be ranked by their position in the official European VRS snapshot specified in Section 1.1, with the highest-ranked team contacted first.
 
 1.2.10. **VRS Priority Places:** The first **12 tournament places** are reserved as a priority allocation for eligible VRS-matched teams. If more than 12 eligible VRS-matched teams register, the 12 highest-ranked teams in the applicable European VRS snapshot receive priority for these places. A team is considered VRS-matched only if it satisfies the roster-matching requirements in Section 2.2 and all applicable Valve requirements.
 
@@ -219,7 +219,7 @@ Green Pepper Season 2 features **24 teams**:
 
 ### 3.2 VRS Direct Qualification
 
-3.2.1. The eight highest-ranked eligible registered teams in the official **European VRS ranking**, using the **2 November 2026 snapshot**, receive direct qualification to the Playoffs.
+3.2.1. The eight highest-ranked eligible registered teams in the official **European VRS ranking**, using the **4 January 2027 snapshot**, receive direct qualification to the Playoffs.
 
 3.2.2. VRS-qualified teams do not participate in the Swiss Stage.
 
@@ -741,7 +741,7 @@ Cheating, account sharing, stream sniping, match manipulation, harassment and ot
 A: Yes. Every player must use their own eligible FACEIT account and have FACEIT Anti-Cheat running for official matches.
 
 **Q: How does direct Playoff qualification work in Season 2?**  
-A: The eight highest-ranked eligible European VRS teams among the accepted entrants qualify directly for the 16-team Playoffs, using the official **2 November 2026 European VRS snapshot** and subject to the roster and eligibility requirements in this Rulebook.
+A: The eight highest-ranked eligible European VRS teams among the accepted entrants qualify directly for the 16-team Playoffs, using the official **4 January 2027 European VRS snapshot** and subject to the roster and eligibility requirements in this Rulebook.
 
 **Q: What happens to teams that do not receive a direct Playoff place?**  
 A: The remaining 16 teams compete in the BO3 Swiss Stage. A team qualifies after three wins and is eliminated after three losses. The eight Swiss qualifiers join the eight VRS direct qualifiers in the 16-team Playoffs.
@@ -756,7 +756,7 @@ A: The 16-team Playoffs use a Single-Elimination bracket. All matches are BO3 ex
 A: No. Only one team per organization may participate in Green Pepper Season 2. Teams must disclose organizational affiliations, and administration may reject or disqualify teams where an organizational conflict is confirmed.
 
 **Q: What counts as a team's core?**  
-A: For a VRS-matched team, the reference roster is the five players on its matched VRS roster in the applicable 2 November 2026 snapshot. For a non-VRS team, it is the five original registered starters. At least three players from the applicable reference roster must play the entirety of every official match.
+A: For a VRS-matched team, the reference roster is the five players on its matched VRS roster in the applicable 4 January 2027 snapshot. For a non-VRS team, it is the five original registered starters. At least three players from the applicable reference roster must play the entirety of every official match.
 
 **Q: Can we change our roster?**  
 A: A maximum of two player changes in total is permitted after roster submission, subject to the time windows, VRS-core protections and administration approval in Section 2.4.
