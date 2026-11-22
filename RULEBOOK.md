@@ -100,7 +100,7 @@ This Rulebook carries forward the core roster, integrity, online-match, broadcas
 
 1.2.6. Green Pepper may limit registration to 24 accepted teams and may operate a Waiting List. Registration deadlines, payment confirmation and Waiting List procedures will be announced separately.
 
-1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team. A place is not guaranteed until the replacement has been formally confirmed. Replacement offers follow the VRS and HLTV ranking priority in Section 1.2.15. A replacement team has 24 hours from notification to complete registration and payment; otherwise, the offer expires and the next eligible team may be contacted.
+1.2.7. If a place becomes available before the first official match, the Organizer may offer it to an eligible Waiting List team in accordance with the allocation and replacement priority rules in Sections 1.2.13–1.2.15. A place is not guaranteed until the replacement has been formally confirmed.
 
 1.2.8. **Open Registration and opening date:** Green Pepper Season 2 will use an open-registration process. The registration opening date and time will be announced through the official Green Pepper communication channels.
 
