@@ -197,11 +197,11 @@ Season 2 registration opens on **1 December 2026** and closes on **4 January 202
 
 | Milestone | Date |
 |---|---|
-| Registration opens | To be announced |
+| Registration opens | **1 December 2026** |
 | European VRS snapshot | 4 January 2027 |
-| Registration closes | To be announced |
-| Roster, payment and eligibility verification | To be announced |
-| Eight VRS direct qualifiers announced | To be announced |
+| Registration closes | **4 January 2027 · 23:59 CET** (or earlier if capacity is reached) |
+| VRS eligibility and roster verification | **5 January 2027** |
+| VRS Priority Teams and direct Playoff qualifiers announced | **7 January 2027** |
 | Swiss Stage seeding and schedule published | To be announced |
 | Swiss Stage begins | To be announced |
 
