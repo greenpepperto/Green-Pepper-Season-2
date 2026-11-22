@@ -3,7 +3,8 @@
 > **Counter-Strike 2 · Europe · Online · 24 Teams**  
 > **Platform:** FACEIT  
 > **Anti-Cheat:** FACEIT Anti-Cheat is mandatory for all players  
-> **Schedule status:** Framework published; tournament dates, registration dates, match days, match windows and exact start times are **to be announced** by Green Pepper administration.
+> **Tournament dates:** 13–28 February 2027  
+**Schedule status:** Tournament dates confirmed; registration dates, match days, match windows and exact start times are **to be announced** by Green Pepper administration.
 
 ---
 
@@ -21,14 +22,14 @@
 | Match platform | FACEIT |
 | Anti-cheat | FACEIT Anti-Cheat required |
 | European VRS snapshot | 2 November 2026 |
-| Tournament dates | To be announced |
+| Tournament dates | **13–28 February 2027** |
 | Registration opening | To be announced |
 | Registration deadline | To be announced |
 | Match time zone | To be announced in the official schedule |
 
 All matches are played online. There is no LAN venue, on-site check-in or physical attendance requirement.
 
-This document is the scheduling framework for Season 2. It does not create match dates or start times that have not yet been announced. Green Pepper will publish the confirmed calendar and match-specific instructions through its official channels.
+Green Pepper Season 2 will run from **13 to 28 February 2027**. The exact stage dates, daily match windows and start times have not yet been published. Green Pepper will publish the detailed calendar and match-specific instructions through its official channels.
 
 ---
 
@@ -45,7 +46,7 @@ The following milestones will be confirmed once the registration calendar is ann
 | Eight VRS direct Playoff qualifiers confirmed | To be announced |
 | Swiss Stage seeds and pairings published | To be announced |
 | Full match schedule published | To be announced |
-| Tournament begins | To be announced |
+| Tournament begins | **13 February 2027** |
 
 Registration may close earlier than the announced deadline if all 24 places have been filled. Registration is only complete after all required team and player information has been submitted, the Organizer has accepted the team and the €250 entry fee has been confirmed.
 
@@ -134,9 +135,9 @@ The complete bracket and seeds will be published before the first Playoff match.
 
 ---
 
-## 4. Match Schedule — Dates To Be Announced
+## 4. Match Schedule — 13–28 February 2027
 
-No Season 2 match dates or daily start times have been confirmed yet. The following is the structure of the schedule that will be completed and published by Green Pepper administration.
+The overall tournament period is confirmed as **13–28 February 2027**. Individual match dates and daily start times within this period will be confirmed and published by Green Pepper administration.
 
 | Stage | Match days | Match format | Dates / times |
 |---|---|---|---|
