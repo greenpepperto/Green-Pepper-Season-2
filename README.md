@@ -52,7 +52,7 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 | Prize Pool | **€5,000 total** |
 | Platform | **FACEIT** |
 | Anti-Cheat | **FACEIT Anti-Cheat — mandatory** |
-| Direct Playoff Qualification | **4 highest-ranked eligible European VRS teams** |
+| Direct Playoff Qualification | **8 highest-ranked eligible European VRS teams** |
 | Swiss Stage | **16 teams — BO3 — 3 wins to qualify / 3 losses eliminated** |
 | Swiss Qualification | **8 teams qualify after 3 wins** |
 
@@ -61,10 +61,10 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 | Grand Final | **BO5** |
 | European VRS Snapshot | **2 November 2026** |
 | Map Pool | **7 maps** |
-| Dates | **To be announced** |
+| Dates | **13–28 February 2027** |
 | Registration | **To be announced** |
 
-Further event details, match times, registration/payment instructions and eligibility information will be confirmed through official Green Pepper channels.
+Green Pepper Season 2 will take place from **13 to 28 February 2027**. Registration dates, match times, payment instructions and remaining event details will be confirmed through official Green Pepper channels.
 
 ---
 
@@ -72,7 +72,7 @@ Further event details, match times, registration/payment instructions and eligib
 
 Green Pepper Season 2 is designed as an open-registration European competition, with VRS ranking used for direct Playoff qualification, roster matching and applicable seeding procedures.
 
-The four direct Playoff places are awarded to the four highest-ranked eligible European VRS teams among accepted entrants, based on the official **2 November 2026 VRS snapshot**. Direct qualification is a ranking outcome within the open-registration event; it is not an invitation.
+The eight direct Playoff places are awarded to the eight highest-ranked eligible European VRS teams among accepted entrants, based on the official **2 November 2026 VRS snapshot**. Direct qualification is a ranking outcome within the open-registration event; it is not an invitation.
 
 The tournament is intended to operate in accordance with applicable Valve Tournament Operating Requirements. Any VRS status, alignment or approval remains subject to the relevant Valve requirements and confirmation. This README does not itself guarantee Valve approval or VRS status.
 
