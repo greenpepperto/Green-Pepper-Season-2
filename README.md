@@ -64,7 +64,22 @@ Official tournament information, format, rules and updates for Green Pepper Seas
 | Dates | **13–28 February 2027** |
 | Registration | **To be announced** |
 
-Green Pepper Season 2 will take place from **13 to 28 February 2027**. Registration dates, match times, payment instructions and remaining event details will be confirmed through official Green Pepper channels.
+Green Pepper Season 2 will take place from **13 to 28 February 2027**. Open registration runs from **1 December 2026** until **4 January 2027**. The official European VRS snapshot dated **4 January 2027** will determine the 12 VRS Priority Registration Places and the eight direct Playoff qualifiers, subject to the Rulebook. Match times and remaining event details will be confirmed through official Green Pepper channels.
+
+---
+
+## Announcement & Registration Milestones
+
+| Date | Announcement / Milestone |
+|---|---|
+| **1 December 2026** | Official Season 2 announcement and open registrations |
+| **8 December 2026** | Registration process and eligibility information |
+| **16 December 2026** | Official Rulebook publication |
+| **27 December 2026** | Additional Information announcement |
+| **4 January 2027** | Registration deadline and official European VRS snapshot |
+| **5 January 2027** | VRS eligibility and roster verification |
+| **7 January 2027** | VRS Priority Teams announcement |
+| **10 January 2027** | Final participating teams announcement |
 
 ---
 
@@ -72,7 +87,7 @@ Green Pepper Season 2 will take place from **13 to 28 February 2027**. Registrat
 
 Green Pepper Season 2 is designed as an open-registration European competition, with VRS ranking used for direct Playoff qualification, roster matching and applicable seeding procedures.
 
-The eight direct Playoff places are awarded to the eight highest-ranked eligible European VRS teams among accepted entrants, based on the official **2 November 2026 VRS snapshot**. Direct qualification is a ranking outcome within the open-registration event; it is not an invitation.
+The eight direct Playoff places are awarded to the eight highest-ranked eligible European VRS teams among accepted entrants, based on the official **4 January 2027 VRS snapshot**. Direct qualification is a ranking outcome within the open-registration event; it is not an invitation.
 
 The tournament is intended to operate in accordance with applicable Valve Tournament Operating Requirements. Any VRS status, alignment or approval remains subject to the relevant Valve requirements and confirmation. This README does not itself guarantee Valve approval or VRS status.
 
@@ -87,7 +102,7 @@ Please read the complete [Rulebook](RULEBOOK.md) for binding eligibility and com
 - Registration must be completed through the official Green Pepper registration process.
 - Registration is complete only after all required team, player and contact details have been submitted and the Organizer has confirmed acceptance and payment.
 - Teams must submit an eligible roster and accurate player, Steam account and competitive-platform information.
-- Registration deadlines, payment instructions and any early closure of registration will be announced through official Green Pepper channels.
+- Open registration: **1 December 2026 – 4 January 2027**. The Organizer may close registration earlier if all 24 places are filled.
 - Roster changes and substitutions are governed by the [Rulebook](RULEBOOK.md).
 
 ### Registration Fee Refund Guarantee
@@ -159,7 +174,7 @@ Green Pepper Season 2 features **24 teams** and follows the Swiss Stage and Play
 
 ### VRS Direct Qualification
 
-The eight highest-ranked eligible teams in the official **European VRS snapshot dated 2 November 2026** qualify directly for the 16-team Playoffs.
+The eight highest-ranked eligible teams in the official **European VRS snapshot dated 4 January 2027** qualify directly for the 16-team Playoffs.
 
 - VRS-qualified teams do not participate in the Swiss Stage.
 - The eight teams occupy Playoff seeds 1–8, ordered by European VRS ranking.
@@ -366,6 +381,6 @@ Follow our official channels for announcements and updates:
 ---
 
 © Green Pepper Tournament Organizer  
-Last Update: 04/11/2026
+Last Update: 22/11/2026
 
 ---
