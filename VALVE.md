@@ -24,7 +24,7 @@ This document summarizes the Valve Regional Standings (VRS)-related structure, e
 | Anti-Cheat | FACEIT Anti-Cheat mandatory |
 | Total Prize Pool | €5,000 |
 | European VRS Snapshot | 2 November 2026 |
-| Tournament Dates | To be announced |
+| Tournament Dates | **13–28 February 2027** |
 | Registration Period | To be announced |
 | Format | 8 VRS direct Playoff qualifiers + 16-team BO3 Swiss Stage + 16-team Single-Elimination Playoffs |
 | Swiss Stage | 16 teams; Swiss system; all matches BO3 |
